@@ -1,0 +1,28 @@
+MASSA FILES
+
+
+INPUT                    DESCRIPTION                                                               RESULT               OUTPUT
+
+
+input_reg_inlet_shoal    file input originale inlet_shoal (simple cases)                            ok (30 min)         output_inlet_shoal
+input_massa              onde regolari(*),      bathy 1m,   CFL=0.5                                 blow up time        -
+input_massa_cfl02        onde regolari(*),      bathy 1m,   periodic boundary false,    CFL=0.2     ok (3h10)           reg_cfl02
+input_massa_2x2          onde regolari(*),      bathy 2m,   periodic boundary false,    CFL=0.5     ok (8min)           reg_2x2
+input_massa_2x2_pt       onde regolari(*),      bathy 2m,   periodic boundary true,     CFL=0.5     ok (8min)           reg_2x2_pt
+input_massa_irr_2x2_pt   onde irregolari(**),   bathy 2m,   periodic boundary true,     CFL=0.5     ok (8min)           irr_2x2_pt
+input_massa_irr30deg     onde irr. theta=30(**),bathy 2m,   periodic boundary true,     CFL=0.5     ok (8min)           irr_30deg 
+
+(*) = da input_reg inlet_shoal :
+Tperiod = 12.0 
+AMP_WK = 1.0 
+Theta_WK = 0.0 
+
+
+(**) = da input_irr 2D beach :
+FreqPeak = 0.0833 
+FreqMin = 0.05
+FreqMax = 0.3 
+Hmo = 1.0 
+GammaTMA = 5.0 
+ThetaPeak = 0.0 
+Sigma_Theta = 10.0 
