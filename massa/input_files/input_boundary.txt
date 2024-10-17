@@ -2,16 +2,14 @@
   ! NOTE: all input parameter are capital sensitive 
   ! --------------------TITLE------------------------------------- 
   ! title only for log file 
-TITLE = massa_irr_2x2_pt
+TITLE = massa_boundary
   ! -------------------PARALLEL INFO----------------------------- 
    !  
    !    PX,PY - processor numbers in X and Y 
    !    NOTE: make sure consistency with mpirun -np n (px*py) 
    !     
-! PX = 7
-! PY = 4
- PX = 6
- PY = 5
+ PX = 8
+ PY = 10
    ! --------------------DEPTH------------------------------------- 
    ! Depth types, DEPTH_TYPE=DATA: from depth file 
    !              DEPTH_TYPE=FLAT: idealized flat, need depth_flat 
@@ -19,7 +17,8 @@ TITLE = massa_irr_2x2_pt
    !                                 need slope,SLP starting point, Xslp 
    !                                 and depth_flat 
  DEPTH_TYPE = DATA 
- DEPTH_FILE = ../bathy/dtm2x2.txt 
+ DEPTH_FILE = ../bathy/dtm_withboundary.txt
+ WaterLevel = 0.664 
  !BATHY_CORRECTION = T
  !SmoothBelowDepth = -1.0
  !SlopeCap = 1.0
@@ -29,22 +28,21 @@ TITLE = massa_irr_2x2_pt
    ! -------------------PRINT--------------------------------- 
    ! PRINT*, 
    ! result folder 
- !RESULT_FOLDER = /OCEANASTORE/progetti/funwave/output_massa/output_files/irr_2x2_pt/
- RESULT_FOLDER = /home/polselli/FUNWAVE/output_massa/output_files/irr_2x2_pt/
+ RESULT_FOLDER = /home/mocali/funwave/output_massa/output_files/boundary/
  
 
    ! ------------------DIMENSION----------------------------- 
    ! global grid dimension 
- Mglob = 662
- Nglob = 525
+ Mglob = 1491
+ Nglob = 1876
 
    ! ----------------- TIME---------------------------------- 
    ! time: total computational time/ plot time / screen interval  
    ! all in seconds 
- TOTAL_TIME = 1200.0 
- PLOT_INTV = 30.0 
+ TOTAL_TIME =300.0 
+ PLOT_INTV = 10.0 
  PLOT_INTV_STATION = 0.5 
- SCREEN_INTV = 30.0 
+ SCREEN_INTV = 10.0 
 
    ! -----------------GRID---------------------------------- 
    ! if use spherical grid, in decimal degrees 
@@ -66,21 +64,28 @@ TITLE = massa_irr_2x2_pt
    !          need input WaveCompFile (including 3 columns: per,amp,pha) 
    !          NumWaveComp,PeakPeriod,DEP_WK,Xc_WK,Ywidth_WK 
 WAVEMAKER = WK_IRR
-DEP_WK = 10.0 
-Xc_WK = 250.0 
+DEP_WK = 13.0 
+Xc_WK = 300.0 
 Yc_WK = 0.0
-FreqPeak = 0.0833 
+FreqPeak = 0.0777 
 FreqMin = 0.05
 FreqMax = 0.3 
-Hmo = 1.0 
+Hmo = 4.0 
 GammaTMA = 5.0 
 ThetaPeak = 0.0 
 Sigma_Theta = 10.0 
 
+! ---------------- TIDE BOUNDARY ----------------------
+! TIDAL_BC_GEN_ABS = T
+TIDAL_BC_ABS = T
+TideBcType = CONSTANT
+TideEast_ETA = 1.0
+! TideEast_U = 0.5
+
 ! ---------------- PERIODIC BOUNDARY CONDITION ---------
 ! South-North periodic boundary condition
 !
-PERIODIC = T
+ PERIODIC = T
  
   ! ---------------- SPONGE LAYER ------------------------ 
   ! need to specify widths of four boundaries and parameters if needed
@@ -90,7 +95,7 @@ FRICTION_SPONGE = T
 DIRECT_SPONGE = T 
 Csp = 0.0 
 CDsponge = 1.0 
-Sponge_west_width =  180.0 
+Sponge_west_width =  200.0 
 Sponge_east_width =  0.0 
 Sponge_south_width = 0.0 
 Sponge_north_width = 0.0 
@@ -112,7 +117,7 @@ Cd = 0.0
   ! froude number cap: FroudeCap 
 ! HIGH_ORDER = THIRD 
   ! CFL 
-CFL = 0.5 
+CFL = 0.3 
   ! Froude Number Cap (to avoid jumping drop, set 1.5) 
 FroudeCap = 1.0 
 

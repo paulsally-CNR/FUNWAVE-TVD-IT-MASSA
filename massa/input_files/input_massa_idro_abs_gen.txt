@@ -2,49 +2,45 @@
   ! NOTE: all input parameter are capital sensitive 
   ! --------------------TITLE------------------------------------- 
   ! title only for log file 
-TITLE = massa_irr_2x2_pt
+TITLE = idro_abs_gen
   ! -------------------PARALLEL INFO----------------------------- 
-   !  
-   !    PX,PY - processor numbers in X and Y 
-   !    NOTE: make sure consistency with mpirun -np n (px*py) 
-   !     
-! PX = 7
-! PY = 4
- PX = 6
- PY = 5
+  !  
+  !    PX,PY - processor numbers in X and Y 
+  !    NOTE: make sure consistency with mpirun -np n (px*py) 
+  !     
+PX = 12
+PY = 16
    ! --------------------DEPTH------------------------------------- 
    ! Depth types, DEPTH_TYPE=DATA: from depth file 
    !              DEPTH_TYPE=FLAT: idealized flat, need depth_flat 
    !              DEPTH_TYPE=SLOPE: idealized slope,  
    !                                 need slope,SLP starting point, Xslp 
    !                                 and depth_flat 
- DEPTH_TYPE = DATA 
- DEPTH_FILE = ../bathy/dtm2x2.txt 
- !BATHY_CORRECTION = T
- !SmoothBelowDepth = -1.0
- !SlopeCap = 1.0
-
- !BREAKWATER_FILE = breakwater.txt
-
+DEPTH_TYPE = DATA 
+DEPTH_FILE = ../bathy/dtm--river-mask-rasterize--merge--txt.asc.txt 
+BATHY_CORRECTION = T
+  ! if depth is flat and slope, specify flat_depth
+DEPTH_FLAT = 14.0
+  if depth is slope, specify slope and starting point
+SLP = 0.05
+Xslp = 300.0
    ! -------------------PRINT--------------------------------- 
    ! PRINT*, 
    ! result folder 
- !RESULT_FOLDER = /OCEANASTORE/progetti/funwave/output_massa/output_files/irr_2x2_pt/
- RESULT_FOLDER = /home/polselli/FUNWAVE/output_massa/output_files/irr_2x2_pt/
- 
-
+!RESULT_FOLDER = ./output/
+RESULT_FOLDER = /home/polselli/FUNWAVE/output_massa/output_files/idro_abs_gen/
    ! ------------------DIMENSION----------------------------- 
    ! global grid dimension 
- Mglob = 662
- Nglob = 525
+ Mglob = 1491
+ Nglob = 1876 
 
    ! ----------------- TIME---------------------------------- 
    ! time: total computational time/ plot time / screen interval  
    ! all in seconds 
- TOTAL_TIME = 1200.0 
- PLOT_INTV = 30.0 
+ TOTAL_TIME = 200.0 
+ PLOT_INTV = 2.0 
  PLOT_INTV_STATION = 0.5 
- SCREEN_INTV = 30.0 
+ SCREEN_INTV = 2.0 
 
    ! -----------------GRID---------------------------------- 
    ! if use spherical grid, in decimal degrees 
@@ -65,32 +61,39 @@ TITLE = massa_irr_2x2_pt
    !                 and then use Wei and Kirby 1999  
    !          need input WaveCompFile (including 3 columns: per,amp,pha) 
    !          NumWaveComp,PeakPeriod,DEP_WK,Xc_WK,Ywidth_WK 
-WAVEMAKER = WK_IRR
-DEP_WK = 10.0 
-Xc_WK = 250.0 
-Yc_WK = 0.0
-FreqPeak = 0.0833 
-FreqMin = 0.05
-FreqMax = 0.3 
-Hmo = 1.0 
-GammaTMA = 5.0 
-ThetaPeak = 0.0 
-Sigma_Theta = 10.0 
+WAVEMAKER = ABSORBING_GENERATING
+WAVE_DATA_TYPE = DATA
+EqualEnergy = F
+!DepthWaveMaker = 8.0
+DepthWaveMaker = 14.0
+WaveCompFile = wave_data.txt
+FreqPeak = 0.1
+FreqMin = 0.02
+FreqMax = 0.3
+Hmo = 1.0
+GammaTMA = 3.3
+ThetaPeak = 0.0
+Sigma_Theta = 10.0
 
-! ---------------- PERIODIC BOUNDARY CONDITION ---------
-! South-North periodic boundary condition
-!
+  ! ----------------- TIDE DATA
+TIDAL_BC_GEN_ABS = T
+TideBcType = DATA
+TideEastFileName = tide_data_east.txt
+
+  ! ---------------- PERIODIC BOUNDARY CONDITION --------- 
+  ! South-North periodic boundary condition 
+  ! 
 PERIODIC = T
- 
+
   ! ---------------- SPONGE LAYER ------------------------ 
   ! need to specify widths of four boundaries and parameters if needed
   ! set width=0.0 if no sponge 
 DIFFUSION_SPONGE = F 
-FRICTION_SPONGE = T 
-DIRECT_SPONGE = T 
+FRICTION_SPONGE = F 
+DIRECT_SPONGE = F 
 Csp = 0.0 
 CDsponge = 1.0 
-Sponge_west_width =  180.0 
+Sponge_west_width =  0.0 
 Sponge_east_width =  0.0 
 Sponge_south_width = 0.0 
 Sponge_north_width = 0.0 
@@ -114,21 +117,21 @@ Cd = 0.0
   ! CFL 
 CFL = 0.5 
   ! Froude Number Cap (to avoid jumping drop, set 1.5) 
-FroudeCap = 1.0 
+FroudeCap = 10.0 
 
   ! --------------WET-DRY------------------------------- 
   ! MinDepth for wetting-drying 
 MinDepth=0.01 
 
   ! -------------- BREAKING ----------------------------
-VISCOSITY_BREAKING = T  
+VISCOSITY_BREAKING = F  
 Cbrk1 = 0.65 
 Cbrk2 = 0.35 
   ! ----------------- WAVE AVERAGE ------------------------ 
   ! if use smagorinsky mixing, have to set -DMIXING in Makefile 
   ! and set averaging time interval, T_INTV_mean, default: 20s 
-T_INTV_mean = 240.0 
-STEADY_TIME=480.0 
+T_INTV_mean = 100.0 
+STEADY_TIME=100.0 
 
   ! -----------------OUTPUT----------------------------- 
   ! stations  
@@ -145,9 +148,9 @@ Hmin = F
 MFmax = F 
 Umax = F 
 VORmax = F 
-Umean = F 
-Vmean = F 
-ETAmean = F 
+Umean = T 
+Vmean = T 
+ETAmean = T 
 MASK = T 
 MASK9 = F 
 SXL = F 
