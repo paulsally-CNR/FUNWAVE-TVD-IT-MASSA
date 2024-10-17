@@ -4380,6 +4380,17 @@ SUBROUTINE PREVIEW
      ENDIF
 # endif
 
+# if defined(AB_OUTPUT)
+        TMP_NAME = TRIM(FDIR)//'Ax_'//TRIM(FILE_NAME)
+        call PutFile(TMP_NAME,grdAx)
+        TMP_NAME = TRIM(FDIR)//'Ay_'//TRIM(FILE_NAME)
+        call PutFile(TMP_NAME,grdAy)
+        TMP_NAME = TRIM(FDIR)//'Bx_'//TRIM(FILE_NAME)
+        call PutFile(TMP_NAME,grdBx)
+        TMP_NAME = TRIM(FDIR)//'By_'//TRIM(FILE_NAME)
+        call PutFile(TMP_NAME,grdBy)
+# endif
+
      IF(OUT_Hmax)THEN
         TMP_NAME = TRIM(FDIR)//'hmax_'//TRIM(FILE_NAME)
         call PutFile(TMP_NAME,HeightMax)

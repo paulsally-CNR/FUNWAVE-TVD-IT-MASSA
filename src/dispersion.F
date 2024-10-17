@@ -284,7 +284,7 @@ SUBROUTINE CAL_DISPERSION
 # if defined (PARALLEL)
     endif  
 # endif
-     
+
 
     CALL EXCHANGE_DISPERSION
 
@@ -382,6 +382,17 @@ SUBROUTINE CAL_DISPERSION
 
      ENDDO
      ENDDO
+
+# if defined(AB_OUTPUT)
+       DO J=Jbeg,Jend
+       DO I=Ibeg,Iend
+        grdAx(I,J)=DUxx(I,J)+DVxy(I,J)
+        grdAy(I,J)=DUxy(I,J)+DVyy(I,J)
+        grdBx(I,J)=Uxx(I,J)+Vxy(I,J)
+        grdBy(I,J)=Uxy(I,J)+Vyy(I,J)
+       ENDDO
+       ENDDO
+# endif
 
 
 # if defined (CARTESIAN)
