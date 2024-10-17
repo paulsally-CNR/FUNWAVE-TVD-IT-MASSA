@@ -1,6 +1,7 @@
 ### PLOT WAVE for inlet_shoal CASE ###
 
 # import necessary modules
+import sys
 import numpy as np               
 import matplotlib.pyplot as plt
 import os
@@ -10,6 +11,8 @@ import cv2
 # To execute coode asynchronously
 import asyncio
 
+# Import module for passing arguments
+#import sys
 
 # import subprocess
 # # Run the ffmpeg -codecs command and capture the output
@@ -18,11 +21,20 @@ import asyncio
 # print(result.stdout)
 # exit()
 
-# write your OWN PC folder path for fdir and dep.
-# Remember that we use for Mac & Linux machines '/', while on windows '\'
-base_dir = rf"/home/mare/funwave/"
-output_files_dir = rf"{base_dir}output_massa/output_files/irr_2x2_pt/"
-output_dir = rf"/home/mare/funwave/output_massa/images/irr_2x2_pt/video/" 
+if len(sys.argv) == 2:
+    run = sys.argv[1]
+else:
+    print('You need to pass the name of the directory for the specific run.')
+    exit(2)
+
+base_output_dir = rf"/OCEANASTORE/progetti/funwave/output_massa/"
+output_files_dir = rf"{base_output_dir}output_files/{run}/"
+output_pp_video_dir = rf"{base_output_dir}output_postprocessed/{run}/video/"
+
+# Create directory to contain images used to create the video if it doesn't exist
+mode = 0o755
+output_postoprocessed_dir_path = os.path.join(base_output_dir, output_pp_video_dir)  
+os.makedirs(output_postoprocessed_dir_path, mode=mode, exist_ok = True)
 
 dep=np.loadtxt(os.path.join(output_files_dir,'dep.out'))
 
@@ -56,21 +68,18 @@ fig = plt.figure(figsize=(w, h), dpi=500)
 
 # Select files whose filename starts with prefix
 prefix = "eta_"
-output_files_x_imgs = [of for of in sorted(os.listdir(output_files_dir), key=str.casefold) if of.startswith(prefix)]
+output_files_x_imgs = [of for of in sorted(os.listdir(output_files_dir), key=str.casefold) if of.startswith(prefix)  and '.' not in of ]
 
 imgs_paths = []
-#title = []
 
-# Determin min and max eta values
+# Determine min and max eta values
 # Initialize variables to store global min and max
 global_min = float('inf')
 global_max = float('-inf')
-
 for index, of in enumerate(output_files_x_imgs):
 
     eta = np.loadtxt(os.path.join(output_files_dir, of))
     mask = np.loadtxt((os.path.join(output_files_dir, of).replace("eta", "mask")))
-
     eta_masked = np.ma.masked_where(mask==0,eta)  # do not plot where mask = 0
 
     # Update global min and max
@@ -81,28 +90,25 @@ for index, of in enumerate(output_files_x_imgs):
     if file_max > global_max:
         global_max = file_max
 
-# print(f"Global minimum value: {global_min}")
-# print(f"Global maximum value: {global_max}")
-# exit()
+    # print(f"Global minimum value: {global_min}")
+    # print(f"Global maximum value: {global_max}")
+    # exit()
 
 for index, of in enumerate(output_files_x_imgs):
     plt.clf()
 
     eta = np.loadtxt(os.path.join(output_files_dir, of))
     mask = np.loadtxt((os.path.join(output_files_dir, of).replace("eta", "mask")))
-
     eta_masked = np.ma.masked_where(mask==0,eta)  # do not plot where mask = 0
 
     #ax = fig.add_subplot(1,len(output_files_x_imgs),index+1)
     ax = fig.add_subplot(1,1,1)
     
     #fig.subplots_adjust(hspace=1,wspace=.25)
-    c = plt.pcolor(x, y, eta_masked, cmap='coolwarm', vmin=global_min, vmax=global_max)
+    plt.pcolor(x, y, eta_masked, cmap='coolwarm', vmin=global_min, vmax=global_max)
     plt.axis('equal')
     
-    #title.append('Time = ' + str("{:4d}".format((index  + 1) * 30)) + ' sec')
     title = 'Time = ' + str("{:4d}".format((index  + 1) * 30)) + ' sec'
-    #plt.title(title[index], loc='left')
     plt.title(title, loc='left')
     #plt.hold(True)
 
@@ -112,22 +118,13 @@ for index, of in enumerate(output_files_x_imgs):
     plt.plot(x_wavemaker,y_wavemaker,'k-',linewidth=3)
     plt.text(200,500,'Wavemaker',color='k', rotation=90)
 
-    # if index == 0:
-    #     plt.ylabel('Y (m)')
-    #     plt.xlabel('X (m)')
-    #     #cbar=plt.colorbar()
-    #     cbar = colorbar(c, ax=ax, orientation='vertical', fraction=0.05, pad=0.02, aspect=10)
-    # else:
-    #     plt.xlabel('X (m)')
-    #     cbar=plt.colorbar()
-    #     cbar = colorbar(c, ax=ax, orientation='vertical', fraction=0.05, pad=0.02, aspect=10)
-    #     cbar.set_label(r'$\eta$'+' (m)', rotation=90)
+    cbar = plt.colorbar(fraction=0.10, pad=0.02)
 
-    cbar=plt.colorbar(fraction=0.10, pad=0.02)
+    #imgs_paths.append(output_pp_video_dir + 'irr_2x2_pt_' + of.lstrip(prefix) + '.png')
+    imgs_paths.append(output_pp_video_dir + run + '_' + of.lstrip(prefix) + '.png')
 
-    imgs_paths.append(output_dir + 'irr_2x2_pt_' + of.lstrip(prefix) + '.png')
-    
-    # save figures        
+    # save figures
+    print("Saving img " + imgs_paths[index])
     fig.savefig(imgs_paths[index], dpi=fig.dpi)
 
 
@@ -136,19 +133,18 @@ for index, of in enumerate(output_files_x_imgs):
 # -- Build video out of the output pictures
 
 # Define the codec and create a VideoWriter object
-output_video = 'video_irr_2x2_pt.mp4'
-
+output_video_fn = 'video_' + run + '.mp4'
 
 async def save_video(
         par_imgs_paths, 
-        par_output_dir, 
-        par_output_video):
+        par_output_pp_video_dir, 
+        par_output_video_fn):
     # Define video parameters
     height, width = None, None  # Initialize dimensions
     out = None  # Initialize VideoWriter object
 
     # Check if the file exists
-    file_path = par_output_dir + par_output_video
+    file_path = par_output_pp_video_dir + par_output_video_fn
     if os.path.exists(file_path):
         # Delete the file
         os.remove(file_path)
@@ -168,7 +164,7 @@ async def save_video(
                 height, width, _ = frame.shape
                 size = (width, height)
                 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-                out = cv2.VideoWriter(par_output_dir + par_output_video, fourcc, 1.0, size)
+                out = cv2.VideoWriter(par_output_pp_video_dir + par_output_video_fn, fourcc, 1.0, size)
 
             # Perform operations on frame
             frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
@@ -179,7 +175,7 @@ async def save_video(
         if out is not None:
             # Release the VideoWriter object
             out.release()
-            print(f'Video saved as {par_output_video}')
+            print(f'Video saved as {par_output_video_fn}')
         else:
             print("No frames to write, video not saved.")
 
@@ -187,4 +183,4 @@ async def save_video(
         print(f"Error occurred: {e}")
 
 # Run the save_video coroutine asynchronously
-asyncio.run(save_video(imgs_paths, output_dir, output_video))
+asyncio.run(save_video(imgs_paths, output_pp_video_dir, output_video_fn))
