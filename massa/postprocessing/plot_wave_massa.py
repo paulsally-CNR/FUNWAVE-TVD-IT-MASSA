@@ -7,7 +7,8 @@ import os
 
 # write your OWN PC folder path for fdir and dep.
 # Remember that we use for Mac & Linux machines '/', while on windows '\'
-fdir = rf'/home/mare/funwave/output_massa/output_files/'
+#fdir = rf'/home/mare/funwave/output_massa/output_files/'
+fdir = rf'/OCEANASTORE/progetti/funwave/output_massa/output_files/tide_abs_1bc_c_1/'
 dep=np.loadtxt(os.path.join(fdir,'dep.out'))
 
 
@@ -31,12 +32,14 @@ nfile = [5, 11]      # range of eta files you want to plot
 min = ['150','900']  # time  you want to plot
 
 # figure size option 
-wid=20   # width
-length=8 # length
+# wid=20   # width
+# length=8 # length
+wid=4*1.26   # width
+length=4 # length
 
 
 # Plot Figure
-fig = plt.figure(figsize=(wid,length),dpi=500)
+fig = plt.figure(figsize=(wid,length),dpi=300)
 
 for num in range(len(nfile)):
     fnum= '%.5d' % nfile[num]
@@ -68,4 +71,4 @@ for num in range(len(nfile)):
         cbar.set_label(r'$\eta$'+' (m)', rotation=90)
 
 # save figure        
-fig.savefig(rf'/home/mare/funwave/output_massa/images/wave_massa.png', dpi=fig.dpi)
+fig.savefig(rf'/OCEANASTORE/progetti/funwave/output_massa/output_postprocessed/tide_abs_1bc_c_1/wave_massa.png', dpi=fig.dpi)

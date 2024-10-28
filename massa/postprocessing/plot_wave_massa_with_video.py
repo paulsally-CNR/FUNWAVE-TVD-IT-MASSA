@@ -51,19 +51,22 @@ dy = 2.0
 x = np.asarray([float(xa)*dx for xa in range(m)])  
 y = np.asarray([float(ya)*dy for ya in range(n)])
 
-# define wavemaker and sponge location
-x_sponge = [1, 100, 100, 1, 1]
-y_sponge = [y[len(y)-1], y[len(y)-1], 1, 1, y[len(y)-1]]
+# # define wavemaker and sponge location
+# x_sponge = [1, 100, 100, 1, 1]
+# y_sponge = [y[len(y)-1], y[len(y)-1], 1, 1, y[len(y)-1]]
 
-x_wavemaker = [249, 251, 251, 249, 249 ]
-y_wavemaker = [y[len(y)-1], y[len(y)-1], 1, 1, y[len(y)-1] ]
+# x_wavemaker = [249, 251, 251, 249, 249 ]
+# y_wavemaker = [y[len(y)-1], y[len(y)-1], 1, 1, y[len(y)-1] ]
 
 # figure size options
-w = 5.66   # width
-h = 4   # height
+# Mglob = 1491
+# Nglob = 1876
+# 1876/1491 = 1.26
+w = 4 + 4*12.5/100  # width
+h = 4*1.2582159624   # height
 
 # Plot Figure
-fig = plt.figure(figsize=(w, h), dpi=500)
+fig = plt.figure(figsize=(w, h), dpi=300)
 #fig = plt.figure()
 
 # Select files whose filename starts with prefix
@@ -112,16 +115,15 @@ for index, of in enumerate(output_files_x_imgs):
     plt.title(title, loc='left')
     #plt.hold(True)
 
-    # plot sponge and wavemaker
-    plt.plot(x_sponge,y_sponge,'k--',linewidth=3)
-    plt.text(40, 500, 'Sponge',color='k', rotation=90)
-    plt.plot(x_wavemaker,y_wavemaker,'k-',linewidth=3)
-    plt.text(200,500,'Wavemaker',color='k', rotation=90)
+    # # plot sponge and wavemaker
+    # plt.plot(x_sponge,y_sponge,'k--',linewidth=3)
+    # plt.text(40, 500, 'Sponge',color='k', rotation=90)
+    # plt.plot(x_wavemaker,y_wavemaker,'k-',linewidth=3)
+    # plt.text(200,500,'Wavemaker',color='k', rotation=90)
 
     cbar = plt.colorbar(fraction=0.10, pad=0.02)
 
-    #imgs_paths.append(output_pp_video_dir + 'irr_2x2_pt_' + of.lstrip(prefix) + '.png')
-    imgs_paths.append(output_pp_video_dir + run + '_' + of.lstrip(prefix) + '.png')
+    imgs_paths.append(rf'{output_pp_video_dir}{run}_{of.lstrip(prefix)}.png')
 
     # save figures
     print("Saving img " + imgs_paths[index])
@@ -133,7 +135,7 @@ for index, of in enumerate(output_files_x_imgs):
 # -- Build video out of the output pictures
 
 # Define the codec and create a VideoWriter object
-output_video_fn = 'video_' + run + '.mp4'
+output_video_fn = rf'video_{run}.mp4'
 
 async def save_video(
         par_imgs_paths, 
