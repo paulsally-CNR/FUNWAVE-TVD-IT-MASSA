@@ -30,7 +30,6 @@ else
 fi
 # <<
 # >> Exit if number of tasks argument is missing
-echo $SLURM_NTASKS
 if [[ -z "$SLURM_NTASKS"  || $SLURM_NTASKS -eq 1 ]]; then
     echo "Specify the number of tasks: e.g. --ntasks 28"
     exit 1
