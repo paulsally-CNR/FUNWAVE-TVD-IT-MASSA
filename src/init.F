@@ -83,6 +83,9 @@ SUBROUTINE ALLOCATE_VARIABLES
               Vtxy(Mloc,Nloc),Vtyy(Mloc,Nloc),&
               DUtxx(Mloc,Nloc),DUtxy(Mloc,Nloc),&
               DVtxy(Mloc,Nloc),DVtyy(Mloc,Nloc),DUtx(Mloc,Nloc),DVty(Mloc,Nloc),&
+# if defined(AB_OUTPUT)
+              grdAx(Mloc,Nloc),grdAy(Mloc,Nloc),grdBx(Mloc,Nloc),grdBy(Mloc,Nloc),&
+# endif
 ! P Q Eta, Fx, Fy
               PL(Mloc1,Nloc),PR(Mloc1,Nloc),QL(Mloc,Nloc1),QR(Mloc,Nloc1), &
               FxL(Mloc1,Nloc),FxR(Mloc1,Nloc),FyL(Mloc,Nloc1),FyR(Mloc,Nloc1), &
