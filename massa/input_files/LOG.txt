@@ -4,7 +4,7 @@
   --------------input start --------------
                                           
  -------------- PARALLEL -----------------
- PX   = 12 PY   = 16
+ PX   = 16 PY   = 20
                                           
  -------------- GRID INFO -----------------
  Mglob=    1491 Nglob=    1876
@@ -160,3 +160,3209 @@ Beta_ref=        -0.53
                                           
   --------------input end --------------
                                           
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -60.000     -58.696
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -54.783     -52.504
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -49.565     -47.085
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -44.348     -42.170
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -39.130     -37.611
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -33.913     -33.317
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -28.696     -25.291
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -23.478     -21.480
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -18.261     -17.767
+     For periodic bc, Freq, Dir, New Dir
+       0.050     -13.043     -10.550
+     For periodic bc, Freq, Dir, New Dir
+       0.050      -7.826      -7.011
+     For periodic bc, Freq, Dir, New Dir
+       0.050      -2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.050       2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.050       7.826       7.011
+     For periodic bc, Freq, Dir, New Dir
+       0.050      13.043      10.550
+     For periodic bc, Freq, Dir, New Dir
+       0.050      18.261      17.767
+     For periodic bc, Freq, Dir, New Dir
+       0.050      23.478      21.480
+     For periodic bc, Freq, Dir, New Dir
+       0.050      28.696      25.291
+     For periodic bc, Freq, Dir, New Dir
+       0.050      33.913      33.317
+     For periodic bc, Freq, Dir, New Dir
+       0.050      39.130      37.611
+     For periodic bc, Freq, Dir, New Dir
+       0.050      44.348      42.170
+     For periodic bc, Freq, Dir, New Dir
+       0.050      49.565      47.085
+     For periodic bc, Freq, Dir, New Dir
+       0.050      54.783      52.504
+     For periodic bc, Freq, Dir, New Dir
+       0.050      60.000      58.696
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -60.000     -54.811
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -54.783     -49.709
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -49.565     -45.096
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -44.348     -40.829
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -39.130     -36.821
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -33.913     -33.013
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -28.696     -25.841
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -23.478     -22.420
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -18.261     -15.808
+     For periodic bc, Freq, Dir, New Dir
+       0.056     -13.043     -12.588
+     For periodic bc, Freq, Dir, New Dir
+       0.056      -7.826      -6.256
+     For periodic bc, Freq, Dir, New Dir
+       0.056      -2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.056       2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.056       7.826       6.256
+     For periodic bc, Freq, Dir, New Dir
+       0.056      13.043      12.588
+     For periodic bc, Freq, Dir, New Dir
+       0.056      18.261      15.808
+     For periodic bc, Freq, Dir, New Dir
+       0.056      23.478      22.420
+     For periodic bc, Freq, Dir, New Dir
+       0.056      28.696      25.841
+     For periodic bc, Freq, Dir, New Dir
+       0.056      33.913      33.013
+     For periodic bc, Freq, Dir, New Dir
+       0.056      39.130      36.821
+     For periodic bc, Freq, Dir, New Dir
+       0.056      44.348      40.829
+     For periodic bc, Freq, Dir, New Dir
+       0.056      49.565      45.096
+     For periodic bc, Freq, Dir, New Dir
+       0.056      54.783      49.709
+     For periodic bc, Freq, Dir, New Dir
+       0.056      60.000      54.811
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -60.000     -56.617
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -54.783     -51.803
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -49.565     -47.457
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -44.348     -43.445
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -39.130     -36.116
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -33.913     -32.704
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -28.696     -26.236
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -23.478     -23.138
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -18.261     -17.140
+     For periodic bc, Freq, Dir, New Dir
+       0.061     -13.043     -11.331
+     For periodic bc, Freq, Dir, New Dir
+       0.061      -7.826      -5.638
+     For periodic bc, Freq, Dir, New Dir
+       0.061      -2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.061       2.609       0.000
+     For periodic bc, Freq, Dir, New Dir
+       0.061       7.826       5.638
+     For periodic bc, Freq, Dir, New Dir
+       0.061      13.043      11.331
+     For periodic bc, Freq, Dir, New Dir
+       0.061      18.261      17.140
+     For periodic bc, Freq, Dir, New Dir
+       0.061      23.478      23.138
+     For periodic bc, Freq, Dir, New Dir
+       0.061      28.696      26.236
+     For periodic bc, Freq, Dir, New Dir
+       0.061      33.913      32.704
+     For periodic bc, Freq, Dir, New Dir
+       0.061      39.130      36.116
+     For periodic bc, Freq, Dir, New Dir
+       0.061      44.348      43.445
+     For periodic bc, Freq, Dir, New Dir
+       0.061      49.565      47.457
+     For periodic bc, Freq, Dir, New Dir
+       0.061      54.783      51.803
+     For periodic bc, Freq, Dir, New Dir
+       0.061      60.000      56.617
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -60.000     -57.997
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -54.783     -53.455
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -49.565     -49.355
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -44.348     -42.028
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -39.130     -38.672
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -33.913     -32.384
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -28.696     -26.508
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -23.478     -20.920
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -18.261     -18.206
+     For periodic bc, Freq, Dir, New Dir
+       0.067     -13.043     -12.895
+     For periodic bc, Freq, Dir, New Dir
+       0.067      -7.826      -7.695
+     For periodic bc, Freq, Dir, New Dir
+       0.067      -2.609      -2.558
+     For periodic bc, Freq, Dir, New Dir
+       0.067       2.609       2.558
+     For periodic bc, Freq, Dir, New Dir
+       0.067       7.826       7.695
+     For periodic bc, Freq, Dir, New Dir
+       0.067      13.043      12.895
+     For periodic bc, Freq, Dir, New Dir
+       0.067      18.261      18.206
+     For periodic bc, Freq, Dir, New Dir
+       0.067      23.478      20.920
+     For periodic bc, Freq, Dir, New Dir
+       0.067      28.696      26.508
+     For periodic bc, Freq, Dir, New Dir
+       0.067      33.913      32.384
+     For periodic bc, Freq, Dir, New Dir
+       0.067      39.130      38.672
+     For periodic bc, Freq, Dir, New Dir
+       0.067      44.348      42.028
+     For periodic bc, Freq, Dir, New Dir
+       0.067      49.565      49.355
+     For periodic bc, Freq, Dir, New Dir
+       0.067      54.783      53.455
+     For periodic bc, Freq, Dir, New Dir
+       0.067      60.000      57.997
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -60.000     -59.010
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -54.783     -54.729
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -49.565     -47.290
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -44.348     -43.945
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -39.130     -37.758
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -33.913     -32.052
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -28.696     -26.682
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -23.478     -21.555
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -18.261     -16.604
+     For periodic bc, Freq, Dir, New Dir
+       0.073     -13.043     -11.777
+     For periodic bc, Freq, Dir, New Dir
+       0.073      -7.826      -7.034
+     For periodic bc, Freq, Dir, New Dir
+       0.073      -2.609      -2.340
+     For periodic bc, Freq, Dir, New Dir
+       0.073       2.609       2.340
+     For periodic bc, Freq, Dir, New Dir
+       0.073       7.826       7.034
+     For periodic bc, Freq, Dir, New Dir
+       0.073      13.043      11.777
+     For periodic bc, Freq, Dir, New Dir
+       0.073      18.261      16.604
+     For periodic bc, Freq, Dir, New Dir
+       0.073      23.478      21.555
+     For periodic bc, Freq, Dir, New Dir
+       0.073      28.696      26.682
+     For periodic bc, Freq, Dir, New Dir
+       0.073      33.913      32.052
+     For periodic bc, Freq, Dir, New Dir
+       0.073      39.130      37.758
+     For periodic bc, Freq, Dir, New Dir
+       0.073      44.348      43.945
+     For periodic bc, Freq, Dir, New Dir
+       0.073      49.565      47.290
+     For periodic bc, Freq, Dir, New Dir
+       0.073      54.783      54.729
+     For periodic bc, Freq, Dir, New Dir
+       0.073      60.000      59.010
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -60.000     -59.698
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -54.783     -52.027
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -49.565     -48.656
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -44.348     -42.507
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -39.130     -36.914
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -33.913     -31.704
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -28.696     -26.773
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -23.478     -22.048
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -18.261     -17.476
+     For periodic bc, Freq, Dir, New Dir
+       0.078     -13.043     -13.016
+     For periodic bc, Freq, Dir, New Dir
+       0.078      -7.826      -6.466
+     For periodic bc, Freq, Dir, New Dir
+       0.078      -2.609      -2.151
+     For periodic bc, Freq, Dir, New Dir
+       0.078       2.609       2.151
+     For periodic bc, Freq, Dir, New Dir
+       0.078       7.826       6.466
+     For periodic bc, Freq, Dir, New Dir
+       0.078      13.043      13.016
+     For periodic bc, Freq, Dir, New Dir
+       0.078      18.261      17.476
+     For periodic bc, Freq, Dir, New Dir
+       0.078      23.478      22.048
+     For periodic bc, Freq, Dir, New Dir
+       0.078      28.696      26.773
+     For periodic bc, Freq, Dir, New Dir
+       0.078      33.913      31.704
+     For periodic bc, Freq, Dir, New Dir
+       0.078      39.130      36.914
+     For periodic bc, Freq, Dir, New Dir
+       0.078      44.348      42.507
+     For periodic bc, Freq, Dir, New Dir
+       0.078      49.565      48.656
+     For periodic bc, Freq, Dir, New Dir
+       0.078      54.783      52.027
+     For periodic bc, Freq, Dir, New Dir
+       0.078      60.000      59.698
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -60.000     -56.325
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -54.783     -52.894
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -49.565     -46.734
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -44.348     -43.908
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -39.130     -38.620
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -33.913     -33.697
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -28.696     -26.793
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -23.478     -22.422
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -18.261     -18.184
+     For periodic bc, Freq, Dir, New Dir
+       0.084     -13.043     -12.008
+     For periodic bc, Freq, Dir, New Dir
+       0.084      -7.826      -5.971
+     For periodic bc, Freq, Dir, New Dir
+       0.084      -2.609      -1.987
+     For periodic bc, Freq, Dir, New Dir
+       0.084       2.609       1.987
+     For periodic bc, Freq, Dir, New Dir
+       0.084       7.826       5.971
+     For periodic bc, Freq, Dir, New Dir
+       0.084      13.043      12.008
+     For periodic bc, Freq, Dir, New Dir
+       0.084      18.261      18.184
+     For periodic bc, Freq, Dir, New Dir
+       0.084      23.478      22.422
+     For periodic bc, Freq, Dir, New Dir
+       0.084      28.696      26.793
+     For periodic bc, Freq, Dir, New Dir
+       0.084      33.913      33.697
+     For periodic bc, Freq, Dir, New Dir
+       0.084      39.130      38.620
+     For periodic bc, Freq, Dir, New Dir
+       0.084      44.348      43.908
+     For periodic bc, Freq, Dir, New Dir
+       0.084      49.565      46.734
+     For periodic bc, Freq, Dir, New Dir
+       0.084      54.783      52.894
+     For periodic bc, Freq, Dir, New Dir
+       0.084      60.000      56.325
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -60.000     -56.717
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -54.783     -53.496
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -49.565     -47.690
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -44.348     -42.470
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -39.130     -37.655
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -33.913     -33.134
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -28.696     -26.753
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -23.478     -22.695
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -18.261     -16.821
+     For periodic bc, Freq, Dir, New Dir
+       0.090     -13.043     -13.007
+     For periodic bc, Freq, Dir, New Dir
+       0.090      -7.826      -7.389
+     For periodic bc, Freq, Dir, New Dir
+       0.090      -2.609      -1.843
+     For periodic bc, Freq, Dir, New Dir
+       0.090       2.609       1.843
+     For periodic bc, Freq, Dir, New Dir
+       0.090       7.826       7.389
+     For periodic bc, Freq, Dir, New Dir
+       0.090      13.043      13.007
+     For periodic bc, Freq, Dir, New Dir
+       0.090      18.261      16.821
+     For periodic bc, Freq, Dir, New Dir
+       0.090      23.478      22.695
+     For periodic bc, Freq, Dir, New Dir
+       0.090      28.696      26.753
+     For periodic bc, Freq, Dir, New Dir
+       0.090      33.913      33.134
+     For periodic bc, Freq, Dir, New Dir
+       0.090      39.130      37.655
+     For periodic bc, Freq, Dir, New Dir
+       0.090      44.348      42.470
+     For periodic bc, Freq, Dir, New Dir
+       0.090      49.565      47.690
+     For periodic bc, Freq, Dir, New Dir
+       0.090      54.783      53.496
+     For periodic bc, Freq, Dir, New Dir
+       0.090      60.000      56.717
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -60.000     -56.876
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -54.783     -53.860
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -49.565     -48.397
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -44.348     -43.467
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -39.130     -38.911
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -33.913     -32.574
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -28.696     -28.592
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -23.478     -22.882
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -18.261     -17.404
+     For periodic bc, Freq, Dir, New Dir
+       0.095     -13.043     -12.086
+     For periodic bc, Freq, Dir, New Dir
+       0.095      -7.826      -6.871
+     For periodic bc, Freq, Dir, New Dir
+       0.095      -2.609      -1.714
+     For periodic bc, Freq, Dir, New Dir
+       0.095       2.609       1.714
+     For periodic bc, Freq, Dir, New Dir
+       0.095       7.826       6.871
+     For periodic bc, Freq, Dir, New Dir
+       0.095      13.043      12.086
+     For periodic bc, Freq, Dir, New Dir
+       0.095      18.261      17.404
+     For periodic bc, Freq, Dir, New Dir
+       0.095      23.478      22.882
+     For periodic bc, Freq, Dir, New Dir
+       0.095      28.696      28.592
+     For periodic bc, Freq, Dir, New Dir
+       0.095      33.913      32.574
+     For periodic bc, Freq, Dir, New Dir
+       0.095      39.130      38.911
+     For periodic bc, Freq, Dir, New Dir
+       0.095      44.348      43.467
+     For periodic bc, Freq, Dir, New Dir
+       0.095      49.565      48.397
+     For periodic bc, Freq, Dir, New Dir
+       0.095      54.783      53.860
+     For periodic bc, Freq, Dir, New Dir
+       0.095      60.000      56.876
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -60.000     -59.875
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -54.783     -54.011
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -49.565     -48.879
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -44.348     -44.229
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -39.130     -37.866
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -33.913     -32.013
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -28.696     -28.315
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -23.478     -22.993
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -18.261     -17.873
+     For periodic bc, Freq, Dir, New Dir
+       0.101     -13.043     -12.898
+     For periodic bc, Freq, Dir, New Dir
+       0.101      -7.826      -6.408
+     For periodic bc, Freq, Dir, New Dir
+       0.101      -2.609      -1.599
+     For periodic bc, Freq, Dir, New Dir
+       0.101       2.609       1.599
+     For periodic bc, Freq, Dir, New Dir
+       0.101       7.826       6.408
+     For periodic bc, Freq, Dir, New Dir
+       0.101      13.043      12.898
+     For periodic bc, Freq, Dir, New Dir
+       0.101      18.261      17.873
+     For periodic bc, Freq, Dir, New Dir
+       0.101      23.478      22.993
+     For periodic bc, Freq, Dir, New Dir
+       0.101      28.696      28.315
+     For periodic bc, Freq, Dir, New Dir
+       0.101      33.913      32.013
+     For periodic bc, Freq, Dir, New Dir
+       0.101      39.130      37.866
+     For periodic bc, Freq, Dir, New Dir
+       0.101      44.348      44.229
+     For periodic bc, Freq, Dir, New Dir
+       0.101      49.565      48.879
+     For periodic bc, Freq, Dir, New Dir
+       0.101      54.783      54.011
+     For periodic bc, Freq, Dir, New Dir
+       0.101      60.000      59.875
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -60.000     -59.417
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -54.783     -53.971
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -49.565     -49.160
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -44.348     -42.709
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -39.130     -38.763
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -33.913     -33.219
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -28.696     -28.007
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -23.478     -23.036
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -18.261     -18.243
+     For periodic bc, Freq, Dir, New Dir
+       0.107     -13.043     -12.046
+     For periodic bc, Freq, Dir, New Dir
+       0.107      -7.826      -7.495
+     For periodic bc, Freq, Dir, New Dir
+       0.107      -2.609      -1.495
+     For periodic bc, Freq, Dir, New Dir
+       0.107       2.609       1.495
+     For periodic bc, Freq, Dir, New Dir
+       0.107       7.826       7.495
+     For periodic bc, Freq, Dir, New Dir
+       0.107      13.043      12.046
+     For periodic bc, Freq, Dir, New Dir
+       0.107      18.261      18.243
+     For periodic bc, Freq, Dir, New Dir
+       0.107      23.478      23.036
+     For periodic bc, Freq, Dir, New Dir
+       0.107      28.696      28.007
+     For periodic bc, Freq, Dir, New Dir
+       0.107      33.913      33.219
+     For periodic bc, Freq, Dir, New Dir
+       0.107      39.130      38.763
+     For periodic bc, Freq, Dir, New Dir
+       0.107      44.348      42.709
+     For periodic bc, Freq, Dir, New Dir
+       0.107      49.565      49.160
+     For periodic bc, Freq, Dir, New Dir
+       0.107      54.783      53.971
+     For periodic bc, Freq, Dir, New Dir
+       0.107      60.000      59.417
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -60.000     -58.807
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -54.783     -53.760
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -49.565     -49.259
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -44.348     -43.184
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -39.130     -37.663
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -33.913     -32.527
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -28.696     -27.670
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -23.478     -23.020
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -18.261     -17.055
+     For periodic bc, Freq, Dir, New Dir
+       0.112     -13.043     -12.707
+     For periodic bc, Freq, Dir, New Dir
+       0.112      -7.826      -7.019
+     For periodic bc, Freq, Dir, New Dir
+       0.112      -2.609      -1.400
+     For periodic bc, Freq, Dir, New Dir
+       0.112       2.609       1.400
+     For periodic bc, Freq, Dir, New Dir
+       0.112       7.826       7.019
+     For periodic bc, Freq, Dir, New Dir
+       0.112      13.043      12.707
+     For periodic bc, Freq, Dir, New Dir
+       0.112      18.261      17.055
+     For periodic bc, Freq, Dir, New Dir
+       0.112      23.478      23.020
+     For periodic bc, Freq, Dir, New Dir
+       0.112      28.696      27.670
+     For periodic bc, Freq, Dir, New Dir
+       0.112      33.913      32.527
+     For periodic bc, Freq, Dir, New Dir
+       0.112      39.130      37.663
+     For periodic bc, Freq, Dir, New Dir
+       0.112      44.348      43.184
+     For periodic bc, Freq, Dir, New Dir
+       0.112      49.565      49.259
+     For periodic bc, Freq, Dir, New Dir
+       0.112      54.783      53.760
+     For periodic bc, Freq, Dir, New Dir
+       0.112      60.000      58.807
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -60.000     -58.067
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -54.783     -53.397
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -49.565     -49.193
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -44.348     -43.480
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -39.130     -38.265
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -33.913     -33.400
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -28.696     -27.306
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -23.478     -22.950
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -18.261     -17.348
+     For periodic bc, Freq, Dir, New Dir
+       0.118     -13.043     -11.913
+     For periodic bc, Freq, Dir, New Dir
+       0.118      -7.826      -6.585
+     For periodic bc, Freq, Dir, New Dir
+       0.118      -2.609      -1.314
+     For periodic bc, Freq, Dir, New Dir
+       0.118       2.609       1.314
+     For periodic bc, Freq, Dir, New Dir
+       0.118       7.826       6.585
+     For periodic bc, Freq, Dir, New Dir
+       0.118      13.043      11.913
+     For periodic bc, Freq, Dir, New Dir
+       0.118      18.261      17.348
+     For periodic bc, Freq, Dir, New Dir
+       0.118      23.478      22.950
+     For periodic bc, Freq, Dir, New Dir
+       0.118      28.696      27.306
+     For periodic bc, Freq, Dir, New Dir
+       0.118      33.913      33.400
+     For periodic bc, Freq, Dir, New Dir
+       0.118      39.130      38.265
+     For periodic bc, Freq, Dir, New Dir
+       0.118      44.348      43.480
+     For periodic bc, Freq, Dir, New Dir
+       0.118      49.565      49.193
+     For periodic bc, Freq, Dir, New Dir
+       0.118      54.783      53.397
+     For periodic bc, Freq, Dir, New Dir
+       0.118      60.000      58.067
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -60.000     -59.572
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -54.783     -52.901
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -49.565     -48.980
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -44.348     -43.615
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -39.130     -38.693
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -33.913     -32.610
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -28.696     -28.310
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -23.478     -22.831
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -18.261     -17.565
+     For periodic bc, Freq, Dir, New Dir
+       0.124     -13.043     -12.449
+     For periodic bc, Freq, Dir, New Dir
+       0.124      -7.826      -7.431
+     For periodic bc, Freq, Dir, New Dir
+       0.124      -2.609      -2.471
+     For periodic bc, Freq, Dir, New Dir
+       0.124       2.609       2.471
+     For periodic bc, Freq, Dir, New Dir
+       0.124       7.826       7.431
+     For periodic bc, Freq, Dir, New Dir
+       0.124      13.043      12.449
+     For periodic bc, Freq, Dir, New Dir
+       0.124      18.261      17.565
+     For periodic bc, Freq, Dir, New Dir
+       0.124      23.478      22.831
+     For periodic bc, Freq, Dir, New Dir
+       0.124      28.696      28.310
+     For periodic bc, Freq, Dir, New Dir
+       0.124      33.913      32.610
+     For periodic bc, Freq, Dir, New Dir
+       0.124      39.130      38.693
+     For periodic bc, Freq, Dir, New Dir
+       0.124      44.348      43.615
+     For periodic bc, Freq, Dir, New Dir
+       0.124      49.565      48.980
+     For periodic bc, Freq, Dir, New Dir
+       0.124      54.783      52.901
+     For periodic bc, Freq, Dir, New Dir
+       0.124      60.000      59.572
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -60.000     -58.424
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -54.783     -54.231
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -49.565     -48.636
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -44.348     -43.604
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -39.130     -38.963
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -33.913     -33.208
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -28.696     -27.810
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -23.478     -22.669
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -18.261     -17.714
+     For periodic bc, Freq, Dir, New Dir
+       0.130     -13.043     -12.893
+     For periodic bc, Freq, Dir, New Dir
+       0.130      -7.826      -6.991
+     For periodic bc, Freq, Dir, New Dir
+       0.130      -2.609      -2.325
+     For periodic bc, Freq, Dir, New Dir
+       0.130       2.609       2.325
+     For periodic bc, Freq, Dir, New Dir
+       0.130       7.826       6.991
+     For periodic bc, Freq, Dir, New Dir
+       0.130      13.043      12.893
+     For periodic bc, Freq, Dir, New Dir
+       0.130      18.261      17.714
+     For periodic bc, Freq, Dir, New Dir
+       0.130      23.478      22.669
+     For periodic bc, Freq, Dir, New Dir
+       0.130      28.696      27.810
+     For periodic bc, Freq, Dir, New Dir
+       0.130      33.913      33.208
+     For periodic bc, Freq, Dir, New Dir
+       0.130      39.130      38.963
+     For periodic bc, Freq, Dir, New Dir
+       0.130      44.348      43.604
+     For periodic bc, Freq, Dir, New Dir
+       0.130      49.565      48.636
+     For periodic bc, Freq, Dir, New Dir
+       0.130      54.783      54.231
+     For periodic bc, Freq, Dir, New Dir
+       0.130      60.000      58.424
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -60.000     -59.298
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -54.783     -53.371
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -49.565     -48.176
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -44.348     -43.462
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -39.130     -39.091
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -33.913     -33.650
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -28.696     -28.535
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -23.478     -22.467
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -18.261     -17.802
+     For periodic bc, Freq, Dir, New Dir
+       0.135     -13.043     -12.133
+     For periodic bc, Freq, Dir, New Dir
+       0.135      -7.826      -7.686
+     For periodic bc, Freq, Dir, New Dir
+       0.135      -2.609      -2.190
+     For periodic bc, Freq, Dir, New Dir
+       0.135       2.609       2.190
+     For periodic bc, Freq, Dir, New Dir
+       0.135       7.826       7.686
+     For periodic bc, Freq, Dir, New Dir
+       0.135      13.043      12.133
+     For periodic bc, Freq, Dir, New Dir
+       0.135      18.261      17.802
+     For periodic bc, Freq, Dir, New Dir
+       0.135      23.478      22.467
+     For periodic bc, Freq, Dir, New Dir
+       0.135      28.696      28.535
+     For periodic bc, Freq, Dir, New Dir
+       0.135      33.913      33.650
+     For periodic bc, Freq, Dir, New Dir
+       0.135      39.130      39.091
+     For periodic bc, Freq, Dir, New Dir
+       0.135      44.348      43.462
+     For periodic bc, Freq, Dir, New Dir
+       0.135      49.565      48.176
+     For periodic bc, Freq, Dir, New Dir
+       0.135      54.783      53.371
+     For periodic bc, Freq, Dir, New Dir
+       0.135      60.000      59.298
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -60.000     -59.851
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -54.783     -54.162
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -49.565     -49.168
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -44.348     -43.202
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -39.130     -39.089
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -33.913     -32.714
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -28.696     -27.930
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -23.478     -23.349
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -18.261     -17.834
+     For periodic bc, Freq, Dir, New Dir
+       0.141     -13.043     -12.485
+     For periodic bc, Freq, Dir, New Dir
+       0.141      -7.826      -7.245
+     For periodic bc, Freq, Dir, New Dir
+       0.141      -2.609      -2.065
+     For periodic bc, Freq, Dir, New Dir
+       0.141       2.609       2.065
+     For periodic bc, Freq, Dir, New Dir
+       0.141       7.826       7.245
+     For periodic bc, Freq, Dir, New Dir
+       0.141      13.043      12.485
+     For periodic bc, Freq, Dir, New Dir
+       0.141      18.261      17.834
+     For periodic bc, Freq, Dir, New Dir
+       0.141      23.478      23.349
+     For periodic bc, Freq, Dir, New Dir
+       0.141      28.696      27.930
+     For periodic bc, Freq, Dir, New Dir
+       0.141      33.913      32.714
+     For periodic bc, Freq, Dir, New Dir
+       0.141      39.130      39.089
+     For periodic bc, Freq, Dir, New Dir
+       0.141      44.348      43.202
+     For periodic bc, Freq, Dir, New Dir
+       0.141      49.565      49.168
+     For periodic bc, Freq, Dir, New Dir
+       0.141      54.783      54.162
+     For periodic bc, Freq, Dir, New Dir
+       0.141      60.000      59.851
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -60.000     -58.202
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -54.783     -54.678
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -49.565     -48.410
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -44.348     -44.181
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -39.130     -38.971
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -33.913     -32.952
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -28.696     -28.421
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -23.478     -23.014
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -18.261     -17.816
+     For periodic bc, Freq, Dir, New Dir
+       0.147     -13.043     -12.766
+     For periodic bc, Freq, Dir, New Dir
+       0.147      -7.826      -7.816
+     For periodic bc, Freq, Dir, New Dir
+       0.147      -2.609      -1.948
+     For periodic bc, Freq, Dir, New Dir
+       0.147       2.609       1.948
+     For periodic bc, Freq, Dir, New Dir
+       0.147       7.826       7.816
+     For periodic bc, Freq, Dir, New Dir
+       0.147      13.043      12.766
+     For periodic bc, Freq, Dir, New Dir
+       0.147      18.261      17.816
+     For periodic bc, Freq, Dir, New Dir
+       0.147      23.478      23.014
+     For periodic bc, Freq, Dir, New Dir
+       0.147      28.696      28.421
+     For periodic bc, Freq, Dir, New Dir
+       0.147      33.913      32.952
+     For periodic bc, Freq, Dir, New Dir
+       0.147      39.130      38.971
+     For periodic bc, Freq, Dir, New Dir
+       0.147      44.348      44.181
+     For periodic bc, Freq, Dir, New Dir
+       0.147      49.565      48.410
+     For periodic bc, Freq, Dir, New Dir
+       0.147      54.783      54.678
+     For periodic bc, Freq, Dir, New Dir
+       0.147      60.000      58.202
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -60.000     -58.281
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -54.783     -53.368
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -49.565     -48.967
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -44.348     -43.641
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -39.130     -38.751
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -33.913     -33.072
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -28.696     -27.739
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -23.478     -22.656
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -18.261     -17.755
+     For periodic bc, Freq, Dir, New Dir
+       0.152     -13.043     -12.985
+     For periodic bc, Freq, Dir, New Dir
+       0.152      -7.826      -7.377
+     For periodic bc, Freq, Dir, New Dir
+       0.152      -2.609      -1.839
+     For periodic bc, Freq, Dir, New Dir
+       0.152       2.609       1.839
+     For periodic bc, Freq, Dir, New Dir
+       0.152       7.826       7.377
+     For periodic bc, Freq, Dir, New Dir
+       0.152      13.043      12.985
+     For periodic bc, Freq, Dir, New Dir
+       0.152      18.261      17.755
+     For periodic bc, Freq, Dir, New Dir
+       0.152      23.478      22.656
+     For periodic bc, Freq, Dir, New Dir
+       0.152      28.696      27.739
+     For periodic bc, Freq, Dir, New Dir
+       0.152      33.913      33.072
+     For periodic bc, Freq, Dir, New Dir
+       0.152      39.130      38.751
+     For periodic bc, Freq, Dir, New Dir
+       0.152      44.348      43.641
+     For periodic bc, Freq, Dir, New Dir
+       0.152      49.565      48.967
+     For periodic bc, Freq, Dir, New Dir
+       0.152      54.783      53.368
+     For periodic bc, Freq, Dir, New Dir
+       0.152      60.000      58.281
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -60.000     -59.805
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -54.783     -53.482
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -49.565     -49.304
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -44.348     -44.229
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -39.130     -38.441
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -33.913     -33.085
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -28.696     -28.039
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -23.478     -23.219
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -18.261     -17.654
+     For periodic bc, Freq, Dir, New Dir
+       0.158     -13.043     -12.257
+     For periodic bc, Freq, Dir, New Dir
+       0.158      -7.826      -6.968
+     For periodic bc, Freq, Dir, New Dir
+       0.158      -2.609      -2.607
+     For periodic bc, Freq, Dir, New Dir
+       0.158       2.609       2.607
+     For periodic bc, Freq, Dir, New Dir
+       0.158       7.826       6.968
+     For periodic bc, Freq, Dir, New Dir
+       0.158      13.043      12.257
+     For periodic bc, Freq, Dir, New Dir
+       0.158      18.261      17.654
+     For periodic bc, Freq, Dir, New Dir
+       0.158      23.478      23.219
+     For periodic bc, Freq, Dir, New Dir
+       0.158      28.696      28.039
+     For periodic bc, Freq, Dir, New Dir
+       0.158      33.913      33.085
+     For periodic bc, Freq, Dir, New Dir
+       0.158      39.130      38.441
+     For periodic bc, Freq, Dir, New Dir
+       0.158      44.348      44.229
+     For periodic bc, Freq, Dir, New Dir
+       0.158      49.565      49.304
+     For periodic bc, Freq, Dir, New Dir
+       0.158      54.783      53.482
+     For periodic bc, Freq, Dir, New Dir
+       0.158      60.000      59.805
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -60.000     -59.326
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -54.783     -53.393
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -49.565     -49.441
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -44.348     -43.477
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -39.130     -39.104
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -33.913     -33.005
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -28.696     -28.232
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -23.478     -22.770
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -18.261     -17.519
+     For periodic bc, Freq, Dir, New Dir
+       0.164     -13.043     -12.417
+     For periodic bc, Freq, Dir, New Dir
+       0.164      -7.826      -7.413
+     For periodic bc, Freq, Dir, New Dir
+       0.164      -2.609      -2.465
+     For periodic bc, Freq, Dir, New Dir
+       0.164       2.609       2.465
+     For periodic bc, Freq, Dir, New Dir
+       0.164       7.826       7.413
+     For periodic bc, Freq, Dir, New Dir
+       0.164      13.043      12.417
+     For periodic bc, Freq, Dir, New Dir
+       0.164      18.261      17.519
+     For periodic bc, Freq, Dir, New Dir
+       0.164      23.478      22.770
+     For periodic bc, Freq, Dir, New Dir
+       0.164      28.696      28.232
+     For periodic bc, Freq, Dir, New Dir
+       0.164      33.913      33.005
+     For periodic bc, Freq, Dir, New Dir
+       0.164      39.130      39.104
+     For periodic bc, Freq, Dir, New Dir
+       0.164      44.348      43.477
+     For periodic bc, Freq, Dir, New Dir
+       0.164      49.565      49.441
+     For periodic bc, Freq, Dir, New Dir
+       0.164      54.783      53.393
+     For periodic bc, Freq, Dir, New Dir
+       0.164      60.000      59.326
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -60.000     -58.674
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -54.783     -54.443
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -49.565     -49.403
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -44.348     -43.750
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -39.130     -38.588
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -33.913     -33.774
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -28.696     -28.331
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -23.478     -23.154
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -18.261     -18.171
+     For periodic bc, Freq, Dir, New Dir
+       0.169     -13.043     -12.530
+     For periodic bc, Freq, Dir, New Dir
+       0.169      -7.826      -7.793
+     For periodic bc, Freq, Dir, New Dir
+       0.169      -2.609      -2.331
+     For periodic bc, Freq, Dir, New Dir
+       0.169       2.609       2.331
+     For periodic bc, Freq, Dir, New Dir
+       0.169       7.826       7.793
+     For periodic bc, Freq, Dir, New Dir
+       0.169      13.043      12.530
+     For periodic bc, Freq, Dir, New Dir
+       0.169      18.261      18.171
+     For periodic bc, Freq, Dir, New Dir
+       0.169      23.478      23.154
+     For periodic bc, Freq, Dir, New Dir
+       0.169      28.696      28.331
+     For periodic bc, Freq, Dir, New Dir
+       0.169      33.913      33.774
+     For periodic bc, Freq, Dir, New Dir
+       0.169      39.130      38.588
+     For periodic bc, Freq, Dir, New Dir
+       0.169      44.348      43.750
+     For periodic bc, Freq, Dir, New Dir
+       0.169      49.565      49.403
+     For periodic bc, Freq, Dir, New Dir
+       0.169      54.783      54.443
+     For periodic bc, Freq, Dir, New Dir
+       0.169      60.000      58.674
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -60.000     -59.296
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -54.783     -53.948
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -49.565     -49.214
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -44.348     -43.867
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -39.130     -38.963
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -33.913     -33.492
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -28.696     -28.348
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -23.478     -23.442
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -18.261     -17.938
+     For periodic bc, Freq, Dir, New Dir
+       0.175     -13.043     -12.601
+     For periodic bc, Freq, Dir, New Dir
+       0.175      -7.826      -7.373
+     For periodic bc, Freq, Dir, New Dir
+       0.175      -2.609      -2.206
+     For periodic bc, Freq, Dir, New Dir
+       0.175       2.609       2.206
+     For periodic bc, Freq, Dir, New Dir
+       0.175       7.826       7.373
+     For periodic bc, Freq, Dir, New Dir
+       0.175      13.043      12.601
+     For periodic bc, Freq, Dir, New Dir
+       0.175      18.261      17.938
+     For periodic bc, Freq, Dir, New Dir
+       0.175      23.478      23.442
+     For periodic bc, Freq, Dir, New Dir
+       0.175      28.696      28.348
+     For periodic bc, Freq, Dir, New Dir
+       0.175      33.913      33.492
+     For periodic bc, Freq, Dir, New Dir
+       0.175      39.130      38.963
+     For periodic bc, Freq, Dir, New Dir
+       0.175      44.348      43.867
+     For periodic bc, Freq, Dir, New Dir
+       0.175      49.565      49.214
+     For periodic bc, Freq, Dir, New Dir
+       0.175      54.783      53.948
+     For periodic bc, Freq, Dir, New Dir
+       0.175      60.000      59.296
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -60.000     -59.646
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -54.783     -54.519
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -49.565     -48.898
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -44.348     -43.850
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -39.130     -38.305
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -33.913     -33.156
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -28.696     -28.294
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -23.478     -22.887
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -18.261     -17.689
+     For periodic bc, Freq, Dir, New Dir
+       0.181     -13.043     -12.637
+     For periodic bc, Freq, Dir, New Dir
+       0.181      -7.826      -7.683
+     For periodic bc, Freq, Dir, New Dir
+       0.181      -2.609      -2.090
+     For periodic bc, Freq, Dir, New Dir
+       0.181       2.609       2.090
+     For periodic bc, Freq, Dir, New Dir
+       0.181       7.826       7.683
+     For periodic bc, Freq, Dir, New Dir
+       0.181      13.043      12.637
+     For periodic bc, Freq, Dir, New Dir
+       0.181      18.261      17.689
+     For periodic bc, Freq, Dir, New Dir
+       0.181      23.478      22.887
+     For periodic bc, Freq, Dir, New Dir
+       0.181      28.696      28.294
+     For periodic bc, Freq, Dir, New Dir
+       0.181      33.913      33.156
+     For periodic bc, Freq, Dir, New Dir
+       0.181      39.130      38.305
+     For periodic bc, Freq, Dir, New Dir
+       0.181      44.348      43.850
+     For periodic bc, Freq, Dir, New Dir
+       0.181      49.565      48.898
+     For periodic bc, Freq, Dir, New Dir
+       0.181      54.783      54.519
+     For periodic bc, Freq, Dir, New Dir
+       0.181      60.000      59.646
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -60.000     -59.759
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -54.783     -53.738
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -49.565     -49.486
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -44.348     -43.720
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -39.130     -38.464
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -33.913     -33.567
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -28.696     -28.182
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -23.478     -23.057
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -18.261     -18.120
+     For periodic bc, Freq, Dir, New Dir
+       0.186     -13.043     -12.642
+     For periodic bc, Freq, Dir, New Dir
+       0.186      -7.826      -7.279
+     For periodic bc, Freq, Dir, New Dir
+       0.186      -2.609      -1.980
+     For periodic bc, Freq, Dir, New Dir
+       0.186       2.609       1.980
+     For periodic bc, Freq, Dir, New Dir
+       0.186       7.826       7.279
+     For periodic bc, Freq, Dir, New Dir
+       0.186      13.043      12.642
+     For periodic bc, Freq, Dir, New Dir
+       0.186      18.261      18.120
+     For periodic bc, Freq, Dir, New Dir
+       0.186      23.478      23.057
+     For periodic bc, Freq, Dir, New Dir
+       0.186      28.696      28.182
+     For periodic bc, Freq, Dir, New Dir
+       0.186      33.913      33.567
+     For periodic bc, Freq, Dir, New Dir
+       0.186      39.130      38.464
+     For periodic bc, Freq, Dir, New Dir
+       0.186      44.348      43.720
+     For periodic bc, Freq, Dir, New Dir
+       0.186      49.565      49.486
+     For periodic bc, Freq, Dir, New Dir
+       0.186      54.783      53.738
+     For periodic bc, Freq, Dir, New Dir
+       0.186      60.000      59.759
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -60.000     -59.672
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -54.783     -53.952
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -49.565     -48.929
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -44.348     -43.498
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -39.130     -38.519
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -33.913     -33.864
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -28.696     -28.022
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -23.478     -23.162
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -18.261     -17.814
+     For periodic bc, Freq, Dir, New Dir
+       0.192     -13.043     -12.622
+     For periodic bc, Freq, Dir, New Dir
+       0.192      -7.826      -7.534
+     For periodic bc, Freq, Dir, New Dir
+       0.192      -2.609      -2.505
+     For periodic bc, Freq, Dir, New Dir
+       0.192       2.609       2.505
+     For periodic bc, Freq, Dir, New Dir
+       0.192       7.826       7.534
+     For periodic bc, Freq, Dir, New Dir
+       0.192      13.043      12.622
+     For periodic bc, Freq, Dir, New Dir
+       0.192      18.261      17.814
+     For periodic bc, Freq, Dir, New Dir
+       0.192      23.478      23.162
+     For periodic bc, Freq, Dir, New Dir
+       0.192      28.696      28.022
+     For periodic bc, Freq, Dir, New Dir
+       0.192      33.913      33.864
+     For periodic bc, Freq, Dir, New Dir
+       0.192      39.130      38.519
+     For periodic bc, Freq, Dir, New Dir
+       0.192      44.348      43.498
+     For periodic bc, Freq, Dir, New Dir
+       0.192      49.565      48.929
+     For periodic bc, Freq, Dir, New Dir
+       0.192      54.783      53.952
+     For periodic bc, Freq, Dir, New Dir
+       0.192      60.000      59.672
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -60.000     -59.425
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -54.783     -54.008
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -49.565     -49.221
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -44.348     -44.027
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -39.130     -38.490
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -33.913     -33.351
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -28.696     -28.500
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -23.478     -23.215
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -18.261     -18.131
+     For periodic bc, Freq, Dir, New Dir
+       0.198     -13.043     -12.582
+     For periodic bc, Freq, Dir, New Dir
+       0.198      -7.826      -7.750
+     For periodic bc, Freq, Dir, New Dir
+       0.198      -2.609      -2.378
+     For periodic bc, Freq, Dir, New Dir
+       0.198       2.609       2.378
+     For periodic bc, Freq, Dir, New Dir
+       0.198       7.826       7.750
+     For periodic bc, Freq, Dir, New Dir
+       0.198      13.043      12.582
+     For periodic bc, Freq, Dir, New Dir
+       0.198      18.261      18.131
+     For periodic bc, Freq, Dir, New Dir
+       0.198      23.478      23.215
+     For periodic bc, Freq, Dir, New Dir
+       0.198      28.696      28.500
+     For periodic bc, Freq, Dir, New Dir
+       0.198      33.913      33.351
+     For periodic bc, Freq, Dir, New Dir
+       0.198      39.130      38.490
+     For periodic bc, Freq, Dir, New Dir
+       0.198      44.348      44.027
+     For periodic bc, Freq, Dir, New Dir
+       0.198      49.565      49.221
+     For periodic bc, Freq, Dir, New Dir
+       0.198      54.783      54.008
+     For periodic bc, Freq, Dir, New Dir
+       0.198      60.000      59.425
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -60.000     -59.055
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -54.783     -53.937
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -49.565     -49.383
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -44.348     -43.636
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -39.130     -39.118
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -33.913     -33.508
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -28.696     -28.242
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -23.478     -23.224
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -18.261     -17.794
+     For periodic bc, Freq, Dir, New Dir
+       0.203     -13.043     -12.526
+     For periodic bc, Freq, Dir, New Dir
+       0.203      -7.826      -7.363
+     For periodic bc, Freq, Dir, New Dir
+       0.203      -2.609      -2.260
+     For periodic bc, Freq, Dir, New Dir
+       0.203       2.609       2.260
+     For periodic bc, Freq, Dir, New Dir
+       0.203       7.826       7.363
+     For periodic bc, Freq, Dir, New Dir
+       0.203      13.043      12.526
+     For periodic bc, Freq, Dir, New Dir
+       0.203      18.261      17.794
+     For periodic bc, Freq, Dir, New Dir
+       0.203      23.478      23.224
+     For periodic bc, Freq, Dir, New Dir
+       0.203      28.696      28.242
+     For periodic bc, Freq, Dir, New Dir
+       0.203      33.913      33.508
+     For periodic bc, Freq, Dir, New Dir
+       0.203      39.130      39.118
+     For periodic bc, Freq, Dir, New Dir
+       0.203      44.348      43.636
+     For periodic bc, Freq, Dir, New Dir
+       0.203      49.565      49.383
+     For periodic bc, Freq, Dir, New Dir
+       0.203      54.783      53.937
+     For periodic bc, Freq, Dir, New Dir
+       0.203      60.000      59.055
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -60.000     -59.644
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -54.783     -54.687
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -49.565     -49.440
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -44.348     -43.953
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -39.130     -38.934
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -33.913     -33.599
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -28.696     -28.578
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -23.478     -23.199
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -18.261     -18.030
+     For periodic bc, Freq, Dir, New Dir
+       0.209     -13.043     -13.009
+     For periodic bc, Freq, Dir, New Dir
+       0.209      -7.826      -7.545
+     For periodic bc, Freq, Dir, New Dir
+       0.209      -2.609      -2.150
+     For periodic bc, Freq, Dir, New Dir
+       0.209       2.609       2.150
+     For periodic bc, Freq, Dir, New Dir
+       0.209       7.826       7.545
+     For periodic bc, Freq, Dir, New Dir
+       0.209      13.043      13.009
+     For periodic bc, Freq, Dir, New Dir
+       0.209      18.261      18.030
+     For periodic bc, Freq, Dir, New Dir
+       0.209      23.478      23.199
+     For periodic bc, Freq, Dir, New Dir
+       0.209      28.696      28.578
+     For periodic bc, Freq, Dir, New Dir
+       0.209      33.913      33.599
+     For periodic bc, Freq, Dir, New Dir
+       0.209      39.130      38.934
+     For periodic bc, Freq, Dir, New Dir
+       0.209      44.348      43.953
+     For periodic bc, Freq, Dir, New Dir
+       0.209      49.565      49.440
+     For periodic bc, Freq, Dir, New Dir
+       0.209      54.783      54.687
+     For periodic bc, Freq, Dir, New Dir
+       0.209      60.000      59.644
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -60.000     -59.063
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -54.783     -54.396
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -49.565     -49.416
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -44.348     -44.180
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -39.130     -38.714
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -33.913     -33.639
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -28.696     -28.264
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -23.478     -23.149
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -18.261     -18.223
+     For periodic bc, Freq, Dir, New Dir
+       0.215     -13.043     -12.907
+     For periodic bc, Freq, Dir, New Dir
+       0.215      -7.826      -7.702
+     For periodic bc, Freq, Dir, New Dir
+       0.215      -2.609      -2.560
+     For periodic bc, Freq, Dir, New Dir
+       0.215       2.609       2.560
+     For periodic bc, Freq, Dir, New Dir
+       0.215       7.826       7.702
+     For periodic bc, Freq, Dir, New Dir
+       0.215      13.043      12.907
+     For periodic bc, Freq, Dir, New Dir
+       0.215      18.261      18.223
+     For periodic bc, Freq, Dir, New Dir
+       0.215      23.478      23.149
+     For periodic bc, Freq, Dir, New Dir
+       0.215      28.696      28.264
+     For periodic bc, Freq, Dir, New Dir
+       0.215      33.913      33.639
+     For periodic bc, Freq, Dir, New Dir
+       0.215      39.130      38.714
+     For periodic bc, Freq, Dir, New Dir
+       0.215      44.348      44.180
+     For periodic bc, Freq, Dir, New Dir
+       0.215      49.565      49.416
+     For periodic bc, Freq, Dir, New Dir
+       0.215      54.783      54.396
+     For periodic bc, Freq, Dir, New Dir
+       0.215      60.000      59.063
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -60.000     -59.401
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -54.783     -54.059
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -49.565     -49.331
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -44.348     -44.333
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -39.130     -39.098
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -33.913     -33.638
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -28.696     -28.506
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -23.478     -23.081
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -18.261     -17.867
+     For periodic bc, Freq, Dir, New Dir
+       0.220     -13.043     -12.802
+     For periodic bc, Freq, Dir, New Dir
+       0.220      -7.826      -7.344
+     For periodic bc, Freq, Dir, New Dir
+       0.220      -2.609      -2.442
+     For periodic bc, Freq, Dir, New Dir
+       0.220       2.609       2.442
+     For periodic bc, Freq, Dir, New Dir
+       0.220       7.826       7.344
+     For periodic bc, Freq, Dir, New Dir
+       0.220      13.043      12.802
+     For periodic bc, Freq, Dir, New Dir
+       0.220      18.261      17.867
+     For periodic bc, Freq, Dir, New Dir
+       0.220      23.478      23.081
+     For periodic bc, Freq, Dir, New Dir
+       0.220      28.696      28.506
+     For periodic bc, Freq, Dir, New Dir
+       0.220      33.913      33.638
+     For periodic bc, Freq, Dir, New Dir
+       0.220      39.130      39.098
+     For periodic bc, Freq, Dir, New Dir
+       0.220      44.348      44.333
+     For periodic bc, Freq, Dir, New Dir
+       0.220      49.565      49.331
+     For periodic bc, Freq, Dir, New Dir
+       0.220      54.783      54.059
+     For periodic bc, Freq, Dir, New Dir
+       0.220      60.000      59.401
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -60.000     -59.637
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -54.783     -54.489
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -49.565     -49.202
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -44.348     -43.781
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -39.130     -38.813
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -33.913     -33.609
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -28.696     -28.172
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -23.478     -22.999
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -18.261     -18.018
+     For periodic bc, Freq, Dir, New Dir
+       0.226     -13.043     -12.696
+     For periodic bc, Freq, Dir, New Dir
+       0.226      -7.826      -7.483
+     For periodic bc, Freq, Dir, New Dir
+       0.226      -2.609      -2.333
+     For periodic bc, Freq, Dir, New Dir
+       0.226       2.609       2.333
+     For periodic bc, Freq, Dir, New Dir
+       0.226       7.826       7.483
+     For periodic bc, Freq, Dir, New Dir
+       0.226      13.043      12.696
+     For periodic bc, Freq, Dir, New Dir
+       0.226      18.261      18.018
+     For periodic bc, Freq, Dir, New Dir
+       0.226      23.478      22.999
+     For periodic bc, Freq, Dir, New Dir
+       0.226      28.696      28.172
+     For periodic bc, Freq, Dir, New Dir
+       0.226      33.913      33.609
+     For periodic bc, Freq, Dir, New Dir
+       0.226      39.130      38.813
+     For periodic bc, Freq, Dir, New Dir
+       0.226      44.348      43.781
+     For periodic bc, Freq, Dir, New Dir
+       0.226      49.565      49.202
+     For periodic bc, Freq, Dir, New Dir
+       0.226      54.783      54.489
+     For periodic bc, Freq, Dir, New Dir
+       0.226      60.000      59.637
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -60.000     -59.795
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -54.783     -54.069
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -49.565     -49.045
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -44.348     -43.863
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -39.130     -39.098
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -33.913     -33.559
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -28.696     -28.355
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -23.478     -23.396
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -18.261     -18.146
+     For periodic bc, Freq, Dir, New Dir
+       0.232     -13.043     -12.592
+     For periodic bc, Freq, Dir, New Dir
+       0.232      -7.826      -7.606
+     For periodic bc, Freq, Dir, New Dir
+       0.232      -2.609      -2.231
+     For periodic bc, Freq, Dir, New Dir
+       0.232       2.609       2.231
+     For periodic bc, Freq, Dir, New Dir
+       0.232       7.826       7.606
+     For periodic bc, Freq, Dir, New Dir
+       0.232      13.043      12.592
+     For periodic bc, Freq, Dir, New Dir
+       0.232      18.261      18.146
+     For periodic bc, Freq, Dir, New Dir
+       0.232      23.478      23.396
+     For periodic bc, Freq, Dir, New Dir
+       0.232      28.696      28.355
+     For periodic bc, Freq, Dir, New Dir
+       0.232      33.913      33.559
+     For periodic bc, Freq, Dir, New Dir
+       0.232      39.130      39.098
+     For periodic bc, Freq, Dir, New Dir
+       0.232      44.348      43.863
+     For periodic bc, Freq, Dir, New Dir
+       0.232      49.565      49.045
+     For periodic bc, Freq, Dir, New Dir
+       0.232      54.783      54.069
+     For periodic bc, Freq, Dir, New Dir
+       0.232      60.000      59.795
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -60.000     -59.894
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -54.783     -54.379
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -49.565     -49.525
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -44.348     -43.913
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -39.130     -38.789
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -33.913     -33.496
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -28.696     -28.509
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -23.478     -23.282
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -18.261     -18.254
+     For periodic bc, Freq, Dir, New Dir
+       0.237     -13.043     -12.928
+     For periodic bc, Freq, Dir, New Dir
+       0.237      -7.826      -7.715
+     For periodic bc, Freq, Dir, New Dir
+       0.237      -2.609      -2.565
+     For periodic bc, Freq, Dir, New Dir
+       0.237       2.609       2.565
+     For periodic bc, Freq, Dir, New Dir
+       0.237       7.826       7.715
+     For periodic bc, Freq, Dir, New Dir
+       0.237      13.043      12.928
+     For periodic bc, Freq, Dir, New Dir
+       0.237      18.261      18.254
+     For periodic bc, Freq, Dir, New Dir
+       0.237      23.478      23.282
+     For periodic bc, Freq, Dir, New Dir
+       0.237      28.696      28.509
+     For periodic bc, Freq, Dir, New Dir
+       0.237      33.913      33.496
+     For periodic bc, Freq, Dir, New Dir
+       0.237      39.130      38.789
+     For periodic bc, Freq, Dir, New Dir
+       0.237      44.348      43.913
+     For periodic bc, Freq, Dir, New Dir
+       0.237      49.565      49.525
+     For periodic bc, Freq, Dir, New Dir
+       0.237      54.783      54.379
+     For periodic bc, Freq, Dir, New Dir
+       0.237      60.000      59.894
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -60.000     -59.951
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -54.783     -54.639
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -49.565     -49.314
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -44.348     -43.940
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -39.130     -39.015
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -33.913     -33.424
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -28.696     -28.640
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -23.478     -23.170
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -18.261     -17.915
+     For periodic bc, Freq, Dir, New Dir
+       0.243     -13.043     -12.813
+     For periodic bc, Freq, Dir, New Dir
+       0.243      -7.826      -7.812
+     For periodic bc, Freq, Dir, New Dir
+       0.243      -2.609      -2.460
+     For periodic bc, Freq, Dir, New Dir
+       0.243       2.609       2.460
+     For periodic bc, Freq, Dir, New Dir
+       0.243       7.826       7.812
+     For periodic bc, Freq, Dir, New Dir
+       0.243      13.043      12.813
+     For periodic bc, Freq, Dir, New Dir
+       0.243      18.261      17.915
+     For periodic bc, Freq, Dir, New Dir
+       0.243      23.478      23.170
+     For periodic bc, Freq, Dir, New Dir
+       0.243      28.696      28.640
+     For periodic bc, Freq, Dir, New Dir
+       0.243      33.913      33.424
+     For periodic bc, Freq, Dir, New Dir
+       0.243      39.130      39.015
+     For periodic bc, Freq, Dir, New Dir
+       0.243      44.348      43.940
+     For periodic bc, Freq, Dir, New Dir
+       0.243      49.565      49.314
+     For periodic bc, Freq, Dir, New Dir
+       0.243      54.783      54.639
+     For periodic bc, Freq, Dir, New Dir
+       0.243      60.000      59.951
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -60.000     -59.980
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -54.783     -54.182
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -49.565     -49.104
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -44.348     -43.952
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -39.130     -38.707
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -33.913     -33.822
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -28.696     -28.304
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -23.478     -23.060
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -18.261     -18.013
+     For periodic bc, Freq, Dir, New Dir
+       0.249     -13.043     -12.703
+     For periodic bc, Freq, Dir, New Dir
+       0.249      -7.826      -7.502
+     For periodic bc, Freq, Dir, New Dir
+       0.249      -2.609      -2.363
+     For periodic bc, Freq, Dir, New Dir
+       0.249       2.609       2.363
+     For periodic bc, Freq, Dir, New Dir
+       0.249       7.826       7.502
+     For periodic bc, Freq, Dir, New Dir
+       0.249      13.043      12.703
+     For periodic bc, Freq, Dir, New Dir
+       0.249      18.261      18.013
+     For periodic bc, Freq, Dir, New Dir
+       0.249      23.478      23.060
+     For periodic bc, Freq, Dir, New Dir
+       0.249      28.696      28.304
+     For periodic bc, Freq, Dir, New Dir
+       0.249      33.913      33.822
+     For periodic bc, Freq, Dir, New Dir
+       0.249      39.130      38.707
+     For periodic bc, Freq, Dir, New Dir
+       0.249      44.348      43.952
+     For periodic bc, Freq, Dir, New Dir
+       0.249      49.565      49.104
+     For periodic bc, Freq, Dir, New Dir
+       0.249      54.783      54.182
+     For periodic bc, Freq, Dir, New Dir
+       0.249      60.000      59.980
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -60.000     -59.991
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -54.783     -54.396
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -49.565     -49.480
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -44.348     -43.954
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -39.130     -38.901
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -33.913     -33.729
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -28.696     -28.421
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -23.478     -23.367
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -18.261     -18.100
+     For periodic bc, Freq, Dir, New Dir
+       0.255     -13.043     -12.988
+     For periodic bc, Freq, Dir, New Dir
+       0.255      -7.826      -7.597
+     For periodic bc, Freq, Dir, New Dir
+       0.255      -2.609      -2.273
+     For periodic bc, Freq, Dir, New Dir
+       0.255       2.609       2.273
+     For periodic bc, Freq, Dir, New Dir
+       0.255       7.826       7.597
+     For periodic bc, Freq, Dir, New Dir
+       0.255      13.043      12.988
+     For periodic bc, Freq, Dir, New Dir
+       0.255      18.261      18.100
+     For periodic bc, Freq, Dir, New Dir
+       0.255      23.478      23.367
+     For periodic bc, Freq, Dir, New Dir
+       0.255      28.696      28.421
+     For periodic bc, Freq, Dir, New Dir
+       0.255      33.913      33.729
+     For periodic bc, Freq, Dir, New Dir
+       0.255      39.130      38.901
+     For periodic bc, Freq, Dir, New Dir
+       0.255      44.348      43.954
+     For periodic bc, Freq, Dir, New Dir
+       0.255      49.565      49.480
+     For periodic bc, Freq, Dir, New Dir
+       0.255      54.783      54.396
+     For periodic bc, Freq, Dir, New Dir
+       0.255      60.000      59.991
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -60.000     -59.992
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -54.783     -54.589
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -49.565     -49.263
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -44.348     -43.951
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -39.130     -39.077
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -33.913     -33.639
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -28.696     -28.526
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -23.478     -23.252
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -18.261     -18.180
+     For periodic bc, Freq, Dir, New Dir
+       0.260     -13.043     -12.877
+     For periodic bc, Freq, Dir, New Dir
+       0.260      -7.826      -7.684
+     For periodic bc, Freq, Dir, New Dir
+       0.260      -2.609      -2.555
+     For periodic bc, Freq, Dir, New Dir
+       0.260       2.609       2.555
+     For periodic bc, Freq, Dir, New Dir
+       0.260       7.826       7.684
+     For periodic bc, Freq, Dir, New Dir
+       0.260      13.043      12.877
+     For periodic bc, Freq, Dir, New Dir
+       0.260      18.261      18.180
+     For periodic bc, Freq, Dir, New Dir
+       0.260      23.478      23.252
+     For periodic bc, Freq, Dir, New Dir
+       0.260      28.696      28.526
+     For periodic bc, Freq, Dir, New Dir
+       0.260      33.913      33.639
+     For periodic bc, Freq, Dir, New Dir
+       0.260      39.130      39.077
+     For periodic bc, Freq, Dir, New Dir
+       0.260      44.348      43.951
+     For periodic bc, Freq, Dir, New Dir
+       0.260      49.565      49.263
+     For periodic bc, Freq, Dir, New Dir
+       0.260      54.783      54.589
+     For periodic bc, Freq, Dir, New Dir
+       0.260      60.000      59.992
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -60.000     -59.990
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -54.783     -54.766
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -49.565     -49.059
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -44.348     -43.946
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -39.130     -38.787
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -33.913     -33.554
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -28.696     -28.622
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -23.478     -23.144
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -18.261     -18.253
+     For periodic bc, Freq, Dir, New Dir
+       0.266     -13.043     -12.773
+     For periodic bc, Freq, Dir, New Dir
+       0.266      -7.826      -7.765
+     For periodic bc, Freq, Dir, New Dir
+       0.266      -2.609      -2.464
+     For periodic bc, Freq, Dir, New Dir
+       0.266       2.609       2.464
+     For periodic bc, Freq, Dir, New Dir
+       0.266       7.826       7.765
+     For periodic bc, Freq, Dir, New Dir
+       0.266      13.043      12.773
+     For periodic bc, Freq, Dir, New Dir
+       0.266      18.261      18.253
+     For periodic bc, Freq, Dir, New Dir
+       0.266      23.478      23.144
+     For periodic bc, Freq, Dir, New Dir
+       0.266      28.696      28.622
+     For periodic bc, Freq, Dir, New Dir
+       0.266      33.913      33.554
+     For periodic bc, Freq, Dir, New Dir
+       0.266      39.130      38.787
+     For periodic bc, Freq, Dir, New Dir
+       0.266      44.348      43.946
+     For periodic bc, Freq, Dir, New Dir
+       0.266      49.565      49.059
+     For periodic bc, Freq, Dir, New Dir
+       0.266      54.783      54.766
+     For periodic bc, Freq, Dir, New Dir
+       0.266      60.000      59.990
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -60.000     -59.987
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -54.783     -54.345
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -49.565     -49.390
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -44.348     -43.941
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -39.130     -38.953
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -33.913     -33.884
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -28.696     -28.325
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -23.478     -23.414
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -18.261     -17.963
+     For periodic bc, Freq, Dir, New Dir
+       0.272     -13.043     -13.025
+     For periodic bc, Freq, Dir, New Dir
+       0.272      -7.826      -7.497
+     For periodic bc, Freq, Dir, New Dir
+       0.272      -2.609      -2.379
+     For periodic bc, Freq, Dir, New Dir
+       0.272       2.609       2.379
+     For periodic bc, Freq, Dir, New Dir
+       0.272       7.826       7.497
+     For periodic bc, Freq, Dir, New Dir
+       0.272      13.043      13.025
+     For periodic bc, Freq, Dir, New Dir
+       0.272      18.261      17.963
+     For periodic bc, Freq, Dir, New Dir
+       0.272      23.478      23.414
+     For periodic bc, Freq, Dir, New Dir
+       0.272      28.696      28.325
+     For periodic bc, Freq, Dir, New Dir
+       0.272      33.913      33.884
+     For periodic bc, Freq, Dir, New Dir
+       0.272      39.130      38.953
+     For periodic bc, Freq, Dir, New Dir
+       0.272      44.348      43.941
+     For periodic bc, Freq, Dir, New Dir
+       0.272      49.565      49.390
+     For periodic bc, Freq, Dir, New Dir
+       0.272      54.783      54.345
+     For periodic bc, Freq, Dir, New Dir
+       0.272      60.000      59.987
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -60.000     -59.989
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -54.783     -54.520
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -49.565     -49.198
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -44.348     -43.939
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -39.130     -39.110
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -33.913     -33.797
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -28.696     -28.423
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -23.478     -23.309
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -18.261     -18.039
+     For periodic bc, Freq, Dir, New Dir
+       0.277     -13.043     -12.924
+     For periodic bc, Freq, Dir, New Dir
+       0.277      -7.826      -7.579
+     For periodic bc, Freq, Dir, New Dir
+       0.277      -2.609      -2.301
+     For periodic bc, Freq, Dir, New Dir
+       0.277       2.609       2.301
+     For periodic bc, Freq, Dir, New Dir
+       0.277       7.826       7.579
+     For periodic bc, Freq, Dir, New Dir
+       0.277      13.043      12.924
+     For periodic bc, Freq, Dir, New Dir
+       0.277      18.261      18.039
+     For periodic bc, Freq, Dir, New Dir
+       0.277      23.478      23.309
+     For periodic bc, Freq, Dir, New Dir
+       0.277      28.696      28.423
+     For periodic bc, Freq, Dir, New Dir
+       0.277      33.913      33.797
+     For periodic bc, Freq, Dir, New Dir
+       0.277      39.130      39.110
+     For periodic bc, Freq, Dir, New Dir
+       0.277      44.348      43.939
+     For periodic bc, Freq, Dir, New Dir
+       0.277      49.565      49.198
+     For periodic bc, Freq, Dir, New Dir
+       0.277      54.783      54.520
+     For periodic bc, Freq, Dir, New Dir
+       0.277      60.000      59.989
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -60.000     -59.996
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -54.783     -54.689
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -49.565     -49.510
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -44.348     -43.940
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -39.130     -38.850
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -33.913     -33.719
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -28.696     -28.516
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -23.478     -23.212
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -18.261     -18.112
+     For periodic bc, Freq, Dir, New Dir
+       0.283     -13.043     -12.829
+     For periodic bc, Freq, Dir, New Dir
+       0.283      -7.826      -7.656
+     For periodic bc, Freq, Dir, New Dir
+       0.283      -2.609      -2.545
+     For periodic bc, Freq, Dir, New Dir
+       0.283       2.609       2.545
+     For periodic bc, Freq, Dir, New Dir
+       0.283       7.826       7.656
+     For periodic bc, Freq, Dir, New Dir
+       0.283      13.043      12.829
+     For periodic bc, Freq, Dir, New Dir
+       0.283      18.261      18.112
+     For periodic bc, Freq, Dir, New Dir
+       0.283      23.478      23.212
+     For periodic bc, Freq, Dir, New Dir
+       0.283      28.696      28.516
+     For periodic bc, Freq, Dir, New Dir
+       0.283      33.913      33.719
+     For periodic bc, Freq, Dir, New Dir
+       0.283      39.130      38.850
+     For periodic bc, Freq, Dir, New Dir
+       0.283      44.348      43.940
+     For periodic bc, Freq, Dir, New Dir
+       0.283      49.565      49.510
+     For periodic bc, Freq, Dir, New Dir
+       0.283      54.783      54.689
+     For periodic bc, Freq, Dir, New Dir
+       0.283      60.000      59.996
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -60.000     -59.398
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -54.783     -54.322
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -49.565     -49.334
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -44.348     -43.945
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -39.130     -39.006
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -33.913     -33.648
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -28.696     -28.606
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -23.478     -23.459
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -18.261     -18.181
+     For periodic bc, Freq, Dir, New Dir
+       0.289     -13.043     -12.742
+     For periodic bc, Freq, Dir, New Dir
+       0.289      -7.826      -7.729
+     For periodic bc, Freq, Dir, New Dir
+       0.289      -2.609      -2.467
+     For periodic bc, Freq, Dir, New Dir
+       0.289       2.609       2.467
+     For periodic bc, Freq, Dir, New Dir
+       0.289       7.826       7.729
+     For periodic bc, Freq, Dir, New Dir
+       0.289      13.043      12.742
+     For periodic bc, Freq, Dir, New Dir
+       0.289      18.261      18.181
+     For periodic bc, Freq, Dir, New Dir
+       0.289      23.478      23.459
+     For periodic bc, Freq, Dir, New Dir
+       0.289      28.696      28.606
+     For periodic bc, Freq, Dir, New Dir
+       0.289      33.913      33.648
+     For periodic bc, Freq, Dir, New Dir
+       0.289      39.130      39.006
+     For periodic bc, Freq, Dir, New Dir
+       0.289      44.348      43.945
+     For periodic bc, Freq, Dir, New Dir
+       0.289      49.565      49.334
+     For periodic bc, Freq, Dir, New Dir
+       0.289      54.783      54.322
+     For periodic bc, Freq, Dir, New Dir
+       0.289      60.000      59.398
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -60.000     -59.437
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -54.783     -54.499
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -49.565     -49.174
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -44.348     -43.954
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -39.130     -38.773
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -33.913     -33.585
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -28.696     -28.693
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -23.478     -23.367
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -18.261     -18.247
+     For periodic bc, Freq, Dir, New Dir
+       0.294     -13.043     -12.968
+     For periodic bc, Freq, Dir, New Dir
+       0.294      -7.826      -7.798
+     For periodic bc, Freq, Dir, New Dir
+       0.294      -2.609      -2.393
+     For periodic bc, Freq, Dir, New Dir
+       0.294       2.609       2.393
+     For periodic bc, Freq, Dir, New Dir
+       0.294       7.826       7.798
+     For periodic bc, Freq, Dir, New Dir
+       0.294      13.043      12.968
+     For periodic bc, Freq, Dir, New Dir
+       0.294      18.261      18.247
+     For periodic bc, Freq, Dir, New Dir
+       0.294      23.478      23.367
+     For periodic bc, Freq, Dir, New Dir
+       0.294      28.696      28.693
+     For periodic bc, Freq, Dir, New Dir
+       0.294      33.913      33.585
+     For periodic bc, Freq, Dir, New Dir
+       0.294      39.130      38.773
+     For periodic bc, Freq, Dir, New Dir
+       0.294      44.348      43.954
+     For periodic bc, Freq, Dir, New Dir
+       0.294      49.565      49.174
+     For periodic bc, Freq, Dir, New Dir
+       0.294      54.783      54.499
+     For periodic bc, Freq, Dir, New Dir
+       0.294      60.000      59.437
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -60.000     -59.483
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -54.783     -54.674
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -49.565     -49.476
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -44.348     -43.968
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -39.130     -38.930
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -33.913     -33.878
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -28.696     -28.447
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -23.478     -23.283
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -18.261     -18.006
+     For periodic bc, Freq, Dir, New Dir
+       0.300     -13.043     -12.884
+     For periodic bc, Freq, Dir, New Dir
+       0.300      -7.826      -7.571
+     For periodic bc, Freq, Dir, New Dir
+       0.300      -2.609      -2.323
+     For periodic bc, Freq, Dir, New Dir
+       0.300       2.609       2.323
+     For periodic bc, Freq, Dir, New Dir
+       0.300       7.826       7.571
+     For periodic bc, Freq, Dir, New Dir
+       0.300      13.043      12.884
+     For periodic bc, Freq, Dir, New Dir
+       0.300      18.261      18.006
+     For periodic bc, Freq, Dir, New Dir
+       0.300      23.478      23.283
+     For periodic bc, Freq, Dir, New Dir
+       0.300      28.696      28.447
+     For periodic bc, Freq, Dir, New Dir
+       0.300      33.913      33.878
+     For periodic bc, Freq, Dir, New Dir
+       0.300      39.130      38.930
+     For periodic bc, Freq, Dir, New Dir
+       0.300      44.348      43.968
+     For periodic bc, Freq, Dir, New Dir
+       0.300      49.565      49.476
+     For periodic bc, Freq, Dir, New Dir
+       0.300      54.783      54.674
+     For periodic bc, Freq, Dir, New Dir
+       0.300      60.000      59.483
+   WaveMakerPointNum Default:  30 points
+ You use CONSTANT TIDAL BC -----------------------
+                                     You dont specify TideWest_U, use default: 0
+                                     You dont specify TideWest_V, use default: 0
+                                     You dont specify TideEast_U, use default: 0
+                                     You dont specify TideEast_V, use default: 0
+                              You dont specify TideSouth_ETA, use default: FALSE
+                                    You dont specify TideSouth_U, use default: 0
+                                    You dont specify TideSouth_V, use default: 0
+                              You dont specify TideNorth_ETA, use default: FALSE
+                                    You dont specify TideNorth_U, use default: 0
+                                    You dont specify TideNorth_V, use default: 0
+                                                         TIDAL_BC_ABS is defined
+                                   You set TideWest BC,  Sponge_west is removed 
+                                   You set TideEast BC,  Sponge_east is removed 
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.0000E+00  0.0000E+00
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.0000E+00  0.3234E+10  0.2886E+02 -0.9973E-02  0.0000E+00  0.0000E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.0000E+00  0.3132E+00  0.0000E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     0  TIME/TOTAL:        0.000 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3004E+02  0.7164E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1264E+07  0.3410E+10  0.2886E+02 -0.2110E+00  0.1738E+01  0.5211E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1739E+01  0.1222E+02  0.1423E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     1  TIME/TOTAL:       30.038 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6002E+02  0.7252E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.2483E+07  0.3565E+10  0.2886E+02 -0.2841E+00  0.1743E+01  0.5018E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1743E+01  0.1229E+02  0.1418E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     2  TIME/TOTAL:       60.017 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9006E+02  0.7248E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3673E+07  0.3694E+10  0.2886E+02 -0.6961E-01  0.2002E+01  0.4976E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2002E+01  0.1229E+02  0.1630E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     3  TIME/TOTAL:       90.055 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1200E+03  0.7224E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4829E+07  0.3797E+10  0.2886E+02 -0.2030E+00  0.2264E+01  0.5707E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2266E+01  0.1229E+02  0.1844E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     4  TIME/TOTAL:      120.027 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1500E+03  0.7282E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5951E+07  0.3879E+10  0.2886E+02 -0.6802E-01  0.3788E+01  0.7829E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3789E+01  0.1229E+02  0.3084E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     5  TIME/TOTAL:      150.038 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1800E+03  0.7559E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7049E+07  0.3924E+10  0.2886E+02 -0.3494E+00  0.5201E+01  0.2890E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5207E+01  0.1229E+02  0.4237E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     6  TIME/TOTAL:      180.008 /    3000.000
+  PRINTING MEAN FILE     1
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2101E+03  0.7359E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8387E+07  0.3963E+10  0.2886E+02 -0.2266E+00  0.5627E+01  0.4574E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5689E+01  0.1234E+02  0.4609E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     7  TIME/TOTAL:      210.072 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2401E+03  0.7378E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9474E+07  0.4021E+10  0.2886E+02 -0.1592E+00  0.5168E+01  0.4415E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5172E+01  0.1234E+02  0.4190E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     8  TIME/TOTAL:      240.061 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2700E+03  0.7345E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1044E+08  0.4104E+10  0.2886E+02 -0.1005E+00  0.4762E+01  0.3774E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4869E+01  0.1234E+02  0.3945E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     9  TIME/TOTAL:      270.002 /    3000.000
+  PRINTING MEAN FILE     2
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3000E+03  0.7391E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1129E+08  0.4206E+10  0.2886E+02 -0.8351E-02  0.4861E+01  0.4272E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4863E+01  0.1234E+02  0.3940E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    10  TIME/TOTAL:      300.035 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3301E+03  0.7494E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1196E+08  0.4305E+10  0.2886E+02 -0.8200E-02  0.4489E+01  0.4167E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4504E+01  0.1234E+02  0.3649E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    11  TIME/TOTAL:      330.069 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3600E+03  0.7650E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1207E+08  0.4339E+10  0.2886E+02 -0.6409E-01  0.4502E+01  0.3414E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4517E+01  0.1234E+02  0.3660E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    12  TIME/TOTAL:      360.017 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3901E+03  0.7274E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1156E+08  0.4296E+10  0.2886E+02 -0.1029E+00  0.4405E+01  0.3437E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4406E+01  0.1253E+02  0.3516E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    13  TIME/TOTAL:      390.070 /    3000.000
+  PRINTING MEAN FILE     3
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.4201E+03  0.6887E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1014E+08  0.4131E+10  0.2886E+02 -0.8365E-01  0.4252E+01  0.4033E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4258E+01  0.1255E+02  0.3393E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    14  TIME/TOTAL:      420.052 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.4500E+03  0.7124E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8631E+07  0.3964E+10  0.2886E+02 -0.3583E+00  0.3988E+01  0.3260E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4026E+01  0.1255E+02  0.3209E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    15  TIME/TOTAL:      450.047 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.4801E+03  0.7348E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7412E+07  0.3852E+10  0.2886E+02 -0.3882E+00  0.3799E+01  0.3637E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3894E+01  0.1255E+02  0.3104E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    16  TIME/TOTAL:      480.071 /    3000.000
+  PRINTING MEAN FILE     4
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.5100E+03  0.7402E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6412E+07  0.3784E+10  0.2886E+02 -0.5291E+00  0.3604E+01  0.3977E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3979E+01  0.1255E+02  0.3171E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    17  TIME/TOTAL:      510.036 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.5401E+03  0.7538E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5534E+07  0.3737E+10  0.2886E+02 -0.5001E+00  0.3317E+01  0.3295E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3320E+01  0.1255E+02  0.2646E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    18  TIME/TOTAL:      540.073 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.5700E+03  0.7517E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4763E+07  0.3700E+10  0.2886E+02 -0.1496E+01  0.4329E+01  0.3910E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4334E+01  0.1255E+02  0.3454E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    19  TIME/TOTAL:      570.023 /    3000.000
+  PRINTING MEAN FILE     5
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6000E+03  0.7320E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4131E+07  0.3666E+10  0.2886E+02 -0.2262E+01  0.4609E+01  0.5682E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5686E+01  0.1262E+02  0.4504E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    20  TIME/TOTAL:      600.008 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6300E+03  0.7558E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3615E+07  0.3623E+10  0.2886E+02 -0.2089E+01  0.5741E+01  0.5048E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5778E+01  0.1262E+02  0.4577E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    21  TIME/TOTAL:      630.042 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6600E+03  0.7623E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3260E+07  0.3577E+10  0.2886E+02 -0.1737E+01  0.5065E+01  0.3881E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5065E+01  0.1262E+02  0.4012E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    22  TIME/TOTAL:      660.026 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6901E+03  0.7736E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3101E+07  0.3537E+10  0.2886E+02 -0.1677E+01  0.5142E+01  0.9260E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.9260E+01  0.1262E+02  0.7335E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    23  TIME/TOTAL:      690.051 /    3000.000
+  PRINTING MEAN FILE     6
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.7201E+03  0.7718E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3272E+07  0.3530E+10  0.2886E+02 -0.8213E+00  0.5056E+01  0.3391E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5086E+01  0.1262E+02  0.4029E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    24  TIME/TOTAL:      720.056 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.7501E+03  0.7480E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.3961E+07  0.3587E+10  0.2886E+02 -0.1018E+01  0.4208E+01  0.4387E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4389E+01  0.1262E+02  0.3476E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    25  TIME/TOTAL:      750.058 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.7800E+03  0.7336E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4954E+07  0.3679E+10  0.2886E+02 -0.7195E+00  0.4214E+01  0.3486E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4223E+01  0.1262E+02  0.3345E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    26  TIME/TOTAL:      780.024 /    3000.000
+  PRINTING MEAN FILE     7
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.8100E+03  0.7096E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6124E+07  0.3791E+10  0.2886E+02 -0.9325E+00  0.4138E+01  0.3725E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4307E+01  0.1262E+02  0.3411E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    27  TIME/TOTAL:      810.048 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.8400E+03  0.7344E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7349E+07  0.3908E+10  0.2886E+02 -0.4803E+00  0.4069E+01  0.3797E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4074E+01  0.1262E+02  0.3227E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    28  TIME/TOTAL:      840.033 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.8701E+03  0.7541E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8460E+07  0.4006E+10  0.2886E+02 -0.3159E+00  0.3722E+01  0.3714E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3907E+01  0.1262E+02  0.3095E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    29  TIME/TOTAL:      870.053 /    3000.000
+  PRINTING MEAN FILE     8
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9000E+03  0.7625E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9169E+07  0.4047E+10  0.2886E+02 -0.2451E+00  0.4196E+01  0.3749E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4341E+01  0.1262E+02  0.3439E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    30  TIME/TOTAL:      900.015 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9300E+03  0.7633E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9708E+07  0.4069E+10  0.2886E+02 -0.1293E+00  0.4294E+01  0.3581E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4455E+01  0.1262E+02  0.3529E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    31  TIME/TOTAL:      930.032 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9600E+03  0.7571E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1011E+08  0.4091E+10  0.2886E+02 -0.2084E+00  0.4065E+01  0.2917E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4088E+01  0.1262E+02  0.3239E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    32  TIME/TOTAL:      960.045 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9900E+03  0.7509E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1029E+08  0.4103E+10  0.2886E+02 -0.8200E-02  0.3601E+01  0.3028E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3601E+01  0.1262E+02  0.2852E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    33  TIME/TOTAL:      990.023 /    3000.000
+  PRINTING MEAN FILE     9
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1020E+04  0.7654E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.1024E+08  0.4110E+10  0.2886E+02 -0.4965E-01  0.3742E+01  0.3503E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3742E+01  0.1262E+02  0.2964E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    34  TIME/TOTAL:     1020.069 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1050E+04  0.7637E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9999E+07  0.4111E+10  0.2886E+02 -0.2190E+00  0.3548E+01  0.2971E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3600E+01  0.1262E+02  0.2852E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    35  TIME/TOTAL:     1050.000 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1080E+04  0.7438E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9537E+07  0.4094E+10  0.2886E+02 -0.8217E-02  0.3309E+01  0.4346E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4348E+01  0.1262E+02  0.3444E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    36  TIME/TOTAL:     1080.045 /    3000.000
+  PRINTING MEAN FILE    10
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1110E+04  0.7157E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8704E+07  0.4026E+10  0.2886E+02 -0.6328E+00  0.4185E+01  0.2764E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4189E+01  0.1262E+02  0.3318E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    37  TIME/TOTAL:     1110.045 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1140E+04  0.7374E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7616E+07  0.3920E+10  0.2886E+02 -0.2885E+00  0.3853E+01  0.3842E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3876E+01  0.1262E+02  0.3071E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    38  TIME/TOTAL:     1140.022 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1170E+04  0.7294E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6514E+07  0.3812E+10  0.2886E+02 -0.2372E+00  0.3767E+01  0.3239E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3767E+01  0.1262E+02  0.2984E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    39  TIME/TOTAL:     1170.053 /    3000.000
+  PRINTING MEAN FILE    11
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1200E+04  0.7418E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5561E+07  0.3725E+10  0.2886E+02 -0.5412E+00  0.3758E+01  0.2873E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3769E+01  0.1262E+02  0.2986E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    40  TIME/TOTAL:     1200.023 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1230E+04  0.7622E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4851E+07  0.3667E+10  0.2886E+02 -0.5531E+00  0.3398E+01  0.3099E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3400E+01  0.1262E+02  0.2693E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    41  TIME/TOTAL:     1230.034 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1260E+04  0.7560E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4418E+07  0.3642E+10  0.2886E+02 -0.6155E+00  0.3648E+01  0.3368E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3651E+01  0.1262E+02  0.2892E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    42  TIME/TOTAL:     1260.064 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1290E+04  0.7415E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4247E+07  0.3644E+10  0.2886E+02 -0.9126E+00  0.3846E+01  0.3465E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3900E+01  0.1262E+02  0.3090E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    43  TIME/TOTAL:     1290.004 /    3000.000
+  PRINTING MEAN FILE    12
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1320E+04  0.7650E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4225E+07  0.3653E+10  0.2886E+02 -0.1212E+01  0.4050E+01  0.4004E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4056E+01  0.1262E+02  0.3212E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    44  TIME/TOTAL:     1320.041 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1350E+04  0.7583E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4343E+07  0.3663E+10  0.2886E+02 -0.1022E+01  0.5940E+01  0.3760E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5946E+01  0.1262E+02  0.4710E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    45  TIME/TOTAL:     1350.059 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1380E+04  0.7698E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4588E+07  0.3674E+10  0.2886E+02 -0.9655E+00  0.4002E+01  0.4225E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4238E+01  0.1262E+02  0.3357E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    46  TIME/TOTAL:     1380.021 /    3000.000
+  PRINTING MEAN FILE    13
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1410E+04  0.7676E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4992E+07  0.3693E+10  0.2886E+02 -0.4385E+00  0.4044E+01  0.3065E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4052E+01  0.1262E+02  0.3210E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    47  TIME/TOTAL:     1410.047 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1440E+04  0.7601E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5566E+07  0.3728E+10  0.2886E+02 -0.1759E+00  0.4224E+01  0.3162E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4239E+01  0.1262E+02  0.3358E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    48  TIME/TOTAL:     1440.021 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1470E+04  0.7383E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6273E+07  0.3780E+10  0.2886E+02 -0.3147E+00  0.4359E+01  0.3263E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4483E+01  0.1262E+02  0.3551E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    49  TIME/TOTAL:     1470.056 /    3000.000
+  PRINTING MEAN FILE    14
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1500E+04  0.7327E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7077E+07  0.3848E+10  0.2886E+02 -0.2267E+00  0.4361E+01  0.3631E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4373E+01  0.1262E+02  0.3464E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    50  TIME/TOTAL:     1500.008 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1530E+04  0.7456E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7952E+07  0.3932E+10  0.2886E+02 -0.2010E+00  0.4171E+01  0.2980E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4189E+01  0.1262E+02  0.3318E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    51  TIME/TOTAL:     1530.024 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1560E+04  0.7586E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8731E+07  0.4008E+10  0.2886E+02 -0.7406E-02  0.3903E+01  0.3269E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3961E+01  0.1262E+02  0.3137E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    52  TIME/TOTAL:     1560.054 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1590E+04  0.7745E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9266E+07  0.4057E+10  0.2886E+02 -0.8570E-02  0.3914E+01  0.2673E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3922E+01  0.1262E+02  0.3106E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    53  TIME/TOTAL:     1590.011 /    3000.000
+  PRINTING MEAN FILE    15
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1620E+04  0.7711E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9569E+07  0.4079E+10  0.2886E+02 -0.1269E-01  0.4443E+01  0.4544E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4544E+01  0.1262E+02  0.3599E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    54  TIME/TOTAL:     1620.031 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1650E+04  0.7506E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9572E+07  0.4071E+10  0.2886E+02 -0.7406E-02  0.3800E+01  0.2756E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3805E+01  0.1262E+02  0.3014E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    55  TIME/TOTAL:     1650.068 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1680E+04  0.7377E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9364E+07  0.4045E+10  0.2886E+02 -0.2736E+00  0.4197E+01  0.2644E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4279E+01  0.1262E+02  0.3389E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    56  TIME/TOTAL:     1680.005 /    3000.000
+  PRINTING MEAN FILE    16
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1710E+04  0.7426E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.9010E+07  0.4012E+10  0.2886E+02 -0.1786E+00  0.4271E+01  0.3999E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4305E+01  0.1262E+02  0.3410E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    57  TIME/TOTAL:     1710.068 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1740E+04  0.7489E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8512E+07  0.3974E+10  0.2886E+02 -0.7728E-01  0.3515E+01  0.2908E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3542E+01  0.1262E+02  0.2806E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    58  TIME/TOTAL:     1740.071 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1770E+04  0.7583E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7993E+07  0.3942E+10  0.2886E+02 -0.8414E-01  0.3372E+01  0.2861E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3373E+01  0.1262E+02  0.2672E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    59  TIME/TOTAL:     1770.031 /    3000.000
+  PRINTING MEAN FILE    17
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1800E+04  0.7428E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7406E+07  0.3903E+10  0.2886E+02 -0.1183E+00  0.3321E+01  0.3647E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3848E+01  0.1262E+02  0.3048E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    60  TIME/TOTAL:     1800.014 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1830E+04  0.7345E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6722E+07  0.3851E+10  0.2886E+02 -0.4066E+00  0.3742E+01  0.3818E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3826E+01  0.1262E+02  0.3031E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    61  TIME/TOTAL:     1829.995 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1860E+04  0.7357E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6035E+07  0.3792E+10  0.2886E+02 -0.4010E+00  0.3884E+01  0.3461E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3913E+01  0.1262E+02  0.3100E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    62  TIME/TOTAL:     1860.019 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1890E+04  0.7390E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5430E+07  0.3736E+10  0.2886E+02 -0.7919E+00  0.4154E+01  0.3654E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4176E+01  0.1262E+02  0.3308E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    63  TIME/TOTAL:     1890.026 /    3000.000
+  PRINTING MEAN FILE    18
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1920E+04  0.7520E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4941E+07  0.3689E+10  0.2886E+02 -0.6414E+00  0.4504E+01  0.3710E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5744E+01  0.1262E+02  0.4550E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    64  TIME/TOTAL:     1920.019 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1950E+04  0.7692E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4679E+07  0.3665E+10  0.2886E+02 -0.5446E+00  0.3990E+01  0.3359E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3997E+01  0.1262E+02  0.3166E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    65  TIME/TOTAL:     1950.018 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1980E+04  0.7671E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4662E+07  0.3667E+10  0.2886E+02 -0.7687E+00  0.4629E+01  0.8715E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.8727E+01  0.1262E+02  0.6913E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    66  TIME/TOTAL:     1980.048 /    3000.000
+  PRINTING MEAN FILE    19
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2010E+04  0.7603E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.4810E+07  0.3682E+10  0.2886E+02 -0.9749E+00  0.3887E+01  0.4339E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4628E+01  0.1262E+02  0.3666E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    67  TIME/TOTAL:     2010.057 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2040E+04  0.5684E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5135E+07  0.3713E+10  0.2886E+02 -0.8741E+00  0.3992E+01  0.3801E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4004E+01  0.1262E+02  0.3171E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    68  TIME/TOTAL:     2040.041 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2070E+04  0.7585E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5585E+07  0.3752E+10  0.2886E+02 -0.6534E+00  0.3806E+01  0.5359E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.5360E+01  0.1262E+02  0.4245E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    69  TIME/TOTAL:     2069.999 /    3000.000
+  PRINTING MEAN FILE    20
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2100E+04  0.7497E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6084E+07  0.3790E+10  0.2886E+02 -0.6247E+00  0.3964E+01  0.4534E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4936E+01  0.1262E+02  0.3910E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    70  TIME/TOTAL:     2099.995 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2130E+04  0.7659E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6622E+07  0.3828E+10  0.2886E+02 -0.2440E+00  0.3933E+01  0.4106E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4169E+01  0.1262E+02  0.3302E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    71  TIME/TOTAL:     2130.049 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2160E+04  0.7601E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7191E+07  0.3869E+10  0.2886E+02 -0.2798E+00  0.4442E+01  0.3456E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4454E+01  0.1262E+02  0.3528E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    72  TIME/TOTAL:     2160.048 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2190E+04  0.7556E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7725E+07  0.3910E+10  0.2886E+02 -0.1944E+00  0.3732E+01  0.3246E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3805E+01  0.1262E+02  0.3014E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    73  TIME/TOTAL:     2190.045 /    3000.000
+  PRINTING MEAN FILE    21
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2220E+04  0.7423E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8225E+07  0.3952E+10  0.2886E+02 -0.2063E+00  0.3846E+01  0.3382E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3898E+01  0.1262E+02  0.3088E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    74  TIME/TOTAL:     2220.025 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2250E+04  0.7539E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8621E+07  0.3990E+10  0.2886E+02 -0.5958E-01  0.3844E+01  0.3797E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3959E+01  0.1262E+02  0.3136E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    75  TIME/TOTAL:     2250.002 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2280E+04  0.7588E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8847E+07  0.4012E+10  0.2886E+02 -0.2012E+00  0.3919E+01  0.3519E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3934E+01  0.1262E+02  0.3116E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    76  TIME/TOTAL:     2280.025 /    3000.000
+  PRINTING MEAN FILE    22
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2310E+04  0.7690E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8958E+07  0.4027E+10  0.2886E+02 -0.2599E+00  0.4380E+01  0.3108E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4393E+01  0.1262E+02  0.3480E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    77  TIME/TOTAL:     2310.014 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2340E+04  0.7450E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8867E+07  0.4022E+10  0.2886E+02 -0.2203E+00  0.3304E+01  0.3193E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3319E+01  0.1262E+02  0.2629E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    78  TIME/TOTAL:     2340.073 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2370E+04  0.7336E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8543E+07  0.3992E+10  0.2886E+02 -0.6311E-01  0.3640E+01  0.3342E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3641E+01  0.1262E+02  0.2884E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    79  TIME/TOTAL:     2370.068 /    3000.000
+  PRINTING MEAN FILE    23
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2400E+04  0.7473E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8087E+07  0.3949E+10  0.2886E+02 -0.2477E+00  0.3804E+01  0.2515E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3912E+01  0.1262E+02  0.3098E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    80  TIME/TOTAL:     2400.008 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2430E+04  0.7509E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7557E+07  0.3903E+10  0.2886E+02 -0.2154E+00  0.3534E+01  0.2656E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3665E+01  0.1262E+02  0.2903E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    81  TIME/TOTAL:     2430.043 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2460E+04  0.7459E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7047E+07  0.3862E+10  0.2886E+02 -0.1354E+00  0.3022E+01  0.2525E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3028E+01  0.1262E+02  0.2398E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    82  TIME/TOTAL:     2460.049 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2490E+04  0.7508E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6585E+07  0.3829E+10  0.2886E+02 -0.1108E+00  0.3725E+01  0.3537E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3736E+01  0.1262E+02  0.2959E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    83  TIME/TOTAL:     2490.039 /    3000.000
+  PRINTING MEAN FILE    24
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2520E+04  0.7353E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6133E+07  0.3796E+10  0.2886E+02 -0.4873E+00  0.3786E+01  0.3184E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3788E+01  0.1262E+02  0.3001E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    84  TIME/TOTAL:     2519.996 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2550E+04  0.7376E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5739E+07  0.3766E+10  0.2886E+02 -0.5048E+00  0.3581E+01  0.2892E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3585E+01  0.1268E+02  0.2827E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    85  TIME/TOTAL:     2550.061 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2580E+04  0.7560E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5429E+07  0.3740E+10  0.2886E+02 -0.8339E+00  0.3837E+01  0.3620E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3944E+01  0.1268E+02  0.3111E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    86  TIME/TOTAL:     2580.048 /    3000.000
+  PRINTING MEAN FILE    25
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2610E+04  0.7616E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5246E+07  0.3724E+10  0.2886E+02 -0.8394E+00  0.3687E+01  0.3554E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3699E+01  0.1268E+02  0.2918E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    87  TIME/TOTAL:     2610.053 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2640E+04  0.7717E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5174E+07  0.3713E+10  0.2886E+02 -0.4175E+00  0.3215E+01  0.3500E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3539E+01  0.1268E+02  0.2791E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    88  TIME/TOTAL:     2640.032 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2670E+04  0.7725E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5274E+07  0.3719E+10  0.2886E+02 -0.3946E+00  0.3789E+01  0.3318E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3797E+01  0.1268E+02  0.2995E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    89  TIME/TOTAL:     2670.017 /    3000.000
+  PRINTING MEAN FILE    26
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2700E+04  0.7529E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5498E+07  0.3737E+10  0.2886E+02 -0.5478E+00  0.4451E+01  0.2823E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4453E+01  0.1268E+02  0.3512E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    90  TIME/TOTAL:     2699.996 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2730E+04  0.7550E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.5831E+07  0.3764E+10  0.2886E+02 -0.3237E+00  0.4033E+01  0.2984E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4035E+01  0.1268E+02  0.3183E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    91  TIME/TOTAL:     2729.998 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2760E+04  0.7445E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6261E+07  0.3800E+10  0.2886E+02 -0.2987E+00  0.3891E+01  0.2484E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4005E+01  0.1268E+02  0.3159E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    92  TIME/TOTAL:     2759.998 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2790E+04  0.7521E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.6739E+07  0.3842E+10  0.2886E+02 -0.2054E+00  0.3887E+01  0.2359E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3912E+01  0.1268E+02  0.3085E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    93  TIME/TOTAL:     2790.027 /    3000.000
+  PRINTING MEAN FILE    27
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2820E+04  0.7769E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7190E+07  0.3878E+10  0.2886E+02 -0.2386E+00  0.4171E+01  0.2681E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4218E+01  0.1268E+02  0.3327E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    94  TIME/TOTAL:     2820.018 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2850E+04  0.7548E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7619E+07  0.3912E+10  0.2886E+02 -0.2630E+00  0.3941E+01  0.2929E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3949E+01  0.1268E+02  0.3115E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    95  TIME/TOTAL:     2849.992 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2880E+04  0.7475E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.7963E+07  0.3939E+10  0.2886E+02 -0.2549E+00  0.3596E+01  0.2615E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3596E+01  0.1268E+02  0.2836E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    96  TIME/TOTAL:     2880.042 /    3000.000
+  PRINTING MEAN FILE    28
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2910E+04  0.7563E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8215E+07  0.3959E+10  0.2886E+02 -0.1903E+00  0.3872E+01  0.2850E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3886E+01  0.1268E+02  0.3065E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    97  TIME/TOTAL:     2910.028 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2940E+04  0.7527E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8356E+07  0.3970E+10  0.2886E+02 -0.7427E-01  0.4254E+01  0.2957E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.4285E+01  0.1268E+02  0.3379E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    98  TIME/TOTAL:     2940.036 /    3000.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2970E+04  0.7651E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.8367E+07  0.3973E+10  0.2886E+02 -0.2380E+00  0.3207E+01  0.2764E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3337E+01  0.1268E+02  0.2632E+00  0.0000E+00
+  TideWest    TideEast      TideSouth    TideNorth
+  0.1000E+01  0.1000E+01  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.    99  TIME/TOTAL:     2970.047 /    3000.000
+  PRINTING MEAN FILE    29
+ Simulation takes   2396.843     seconds
+ Normal Termination!

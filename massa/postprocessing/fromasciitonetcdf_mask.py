@@ -7,7 +7,7 @@ import xarray as xr
 if len(sys.argv) > 1:
     run = sys.argv[1]
 else:
-    print('Nessuna run passata')
+    print('No run parameter passed')
     exit()
 
 # Config
@@ -80,6 +80,6 @@ ds['eta_masked'].attrs['_FillValue'] = np.nan  # Define NoData value
 ds['eta_masked'].attrs['units'] = 'meters'  # Replace with correct units of measure
 ds['eta_masked'].attrs['long_name'] = 'Water Level'
 
-# Salva il Dataset in formato NetCDF
+# Save the Dataset in NetCDF format
 ds.to_netcdf(output_nc, format='NETCDF4')
 print(f"File NetCDF saved in {output_nc}")
