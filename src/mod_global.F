@@ -210,6 +210,9 @@ MODULE GLOBAL
           FxL,FxR,FyL,FyR, &
           GxL,GxR,GyL,GyR, &
           SxL,SxR,SyL,SyR, &
+# if defined(AB_OUTPUT)
+          grdAx,grdAy,grdBx,grdBy, &
+# endif
 ! cross-derivatives 
           Vxy,DVxy,Uxy,DUxy, &
 ! second-derivatives
