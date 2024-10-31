@@ -2,7 +2,7 @@
   ! NOTE: all input parameter are capital sensitive 
   ! --------------------TITLE------------------------------------- 
   ! title only for log file 
-TITLE = t_a_1bc_c_i_8
+TITLE = t_a_1bc_c_i_10
   ! -------------------PARALLEL INFO----------------------------- 
    !  
    !    PX,PY - processor numbers in X and Y 
@@ -27,7 +27,7 @@ Xslp = 300.0
    ! PRINT*, 
    ! result folder 
 ! RESULT_FOLDER = output/
-RESULT_FOLDER = /home/polselli/FUNWAVE/output_massa/output_files/t_a_1bc_c_i_8/
+RESULT_FOLDER = /home/polselli/FUNWAVE/output_massa/output_files/t_a_1bc_c_i_10/
    ! ------------------DIMENSION----------------------------- 
    ! global grid dimension 
  Mglob = 1491
@@ -85,7 +85,7 @@ TideEast_U = -2.0
   ! ---------------- PERIODIC BOUNDARY CONDITION --------- 
   ! South-North periodic boundary condition 
   ! 
-PERIODIC = T
+PERIODIC = F
 
   ! ---------------- SPONGE LAYER ------------------------ 
   ! need to specify widths of four boundaries and parameters if needed
@@ -143,15 +143,15 @@ STATIONS_FILE = gauges.txt
   ! output variables, T=.TRUE, F = .FALSE. 
 DEPTH_OUT = T 
 U = T 
-V = T 
+V = F 
 ETA = T 
-Hmax = F 
-Hmin = F 
+Hmax = T 
+Hmin = T 
 MFmax = F 
 Umax = F 
 VORmax = F 
 Umean = T 
-Vmean = T 
+Vmean = F 
 ETAmean = T 
 MASK = T 
 MASK9 = F 
